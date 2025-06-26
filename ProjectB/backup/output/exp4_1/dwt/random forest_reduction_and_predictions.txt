@@ -1,0 +1,1251 @@
+Fold 1: Reduced from 1280 to 480
+Fold 1 | Top 480 features | Class-wise F1s:
+  ascent: 0.9492
+  away: 0.8287
+  descent: 0.8990
+  hover: 0.9160
+  towards: 0.7598
+  turn: 0.8676
+Fold 1: Reduced from 1280 to 465
+Fold 1 | Top 465 features | Class-wise F1s:
+  ascent: 0.9573
+  away: 0.7984
+  descent: 0.9045
+  hover: 0.9091
+  towards: 0.7232
+  turn: 0.8421
+Fold 1: Reduced from 1280 to 450
+Fold 1 | Top 450 features | Class-wise F1s:
+  ascent: 0.9573
+  away: 0.7937
+  descent: 0.9045
+  hover: 0.9125
+  towards: 0.7522
+  turn: 0.8696
+Fold 1: Reduced from 1280 to 435
+Fold 1 | Top 435 features | Class-wise F1s:
+  ascent: 0.9697
+  away: 0.7857
+  descent: 0.9091
+  hover: 0.8955
+  towards: 0.7522
+  turn: 0.8905
+Fold 1: Reduced from 1280 to 420
+Fold 1 | Top 420 features | Class-wise F1s:
+  ascent: 0.9700
+  away: 0.8097
+  descent: 0.8990
+  hover: 0.9057
+  towards: 0.7586
+  turn: 0.8759
+Fold 1: Reduced from 1280 to 405
+Fold 1 | Top 405 features | Class-wise F1s:
+  ascent: 0.9528
+  away: 0.8032
+  descent: 0.8945
+  hover: 0.9023
+  towards: 0.7336
+  turn: 0.8676
+Fold 1: Reduced from 1280 to 390
+Fold 1 | Top 390 features | Class-wise F1s:
+  ascent: 0.9741
+  away: 0.8095
+  descent: 0.9091
+  hover: 0.9231
+  towards: 0.7554
+  turn: 0.8759
+Fold 1: Reduced from 1280 to 375
+Fold 1 | Top 375 features | Class-wise F1s:
+  ascent: 0.9658
+  away: 0.8032
+  descent: 0.9045
+  hover: 0.9195
+  towards: 0.7598
+  turn: 0.8857
+Fold 1: Reduced from 1280 to 360
+Fold 1 | Top 360 features | Class-wise F1s:
+  ascent: 0.9741
+  away: 0.7984
+  descent: 0.9100
+  hover: 0.9125
+  towards: 0.7759
+  turn: 0.8759
+Fold 1: Reduced from 1280 to 345
+Fold 1 | Top 345 features | Class-wise F1s:
+  ascent: 0.9614
+  away: 0.8063
+  descent: 0.9146
+  hover: 0.9057
+  towards: 0.7623
+  turn: 0.8777
+Fold 1: Reduced from 1280 to 330
+Fold 1 | Top 330 features | Class-wise F1s:
+  ascent: 0.9532
+  away: 0.7984
+  descent: 0.9246
+  hover: 0.9412
+  towards: 0.7607
+  turn: 0.8676
+Fold 1: Reduced from 1280 to 315
+Fold 1 | Top 315 features | Class-wise F1s:
+  ascent: 0.9617
+  away: 0.8032
+  descent: 0.9045
+  hover: 0.9125
+  towards: 0.7368
+  turn: 0.8841
+Fold 1: Reduced from 1280 to 300
+Fold 1 | Top 300 features | Class-wise F1s:
+  ascent: 0.9614
+  away: 0.7920
+  descent: 0.9146
+  hover: 0.9266
+  towards: 0.7391
+  turn: 0.8794
+Fold 1: Reduced from 1280 to 285
+Fold 1 | Top 285 features | Class-wise F1s:
+  ascent: 0.9739
+  away: 0.8000
+  descent: 0.9200
+  hover: 0.9057
+  towards: 0.7111
+  turn: 0.8759
+Fold 1: Reduced from 1280 to 270
+Fold 1 | Top 270 features | Class-wise F1s:
+  ascent: 0.9617
+  away: 0.8031
+  descent: 0.9146
+  hover: 0.9375
+  towards: 0.7391
+  turn: 0.8841
+Fold 1: Reduced from 1280 to 255
+Fold 1 | Top 255 features | Class-wise F1s:
+  ascent: 0.9700
+  away: 0.8175
+  descent: 0.8990
+  hover: 0.9195
+  towards: 0.7313
+  turn: 0.8794
+Fold 1: Reduced from 1280 to 240
+Fold 1 | Top 240 features | Class-wise F1s:
+  ascent: 0.9576
+  away: 0.8160
+  descent: 0.9192
+  hover: 0.9231
+  towards: 0.7598
+  turn: 0.8921
+Fold 1: Reduced from 1280 to 225
+Fold 1 | Top 225 features | Class-wise F1s:
+  ascent: 0.9412
+  away: 0.8080
+  descent: 0.9100
+  hover: 0.9449
+  towards: 0.7414
+  turn: 0.8841
+Fold 1: Reduced from 1280 to 210
+Fold 1 | Top 210 features | Class-wise F1s:
+  ascent: 0.9700
+  away: 0.8016
+  descent: 0.9192
+  hover: 0.9091
+  towards: 0.7556
+  turn: 0.8714
+Fold 1: Reduced from 1280 to 195
+Fold 1 | Top 195 features | Class-wise F1s:
+  ascent: 0.9744
+  away: 0.8245
+  descent: 0.9200
+  hover: 0.9160
+  towards: 0.7598
+  turn: 0.8873
+Fold 1: Reduced from 1280 to 180
+Fold 1 | Top 180 features | Class-wise F1s:
+  ascent: 0.9658
+  away: 0.7871
+  descent: 0.9109
+  hover: 0.9195
+  towards: 0.7456
+  turn: 0.8986
+Fold 1: Reduced from 1280 to 165
+Fold 1 | Top 165 features | Class-wise F1s:
+  ascent: 0.9617
+  away: 0.8000
+  descent: 0.9146
+  hover: 0.9266
+  towards: 0.7639
+  turn: 0.8936
+Fold 1: Reduced from 1280 to 150
+Fold 1 | Top 150 features | Class-wise F1s:
+  ascent: 0.9536
+  away: 0.8142
+  descent: 0.9146
+  hover: 0.9339
+  towards: 0.7489
+  turn: 0.8921
+Fold 1: Reduced from 1280 to 135
+Fold 1 | Top 135 features | Class-wise F1s:
+  ascent: 0.9617
+  away: 0.7969
+  descent: 0.9091
+  hover: 0.9231
+  towards: 0.7444
+  turn: 0.8714
+Fold 1: Reduced from 1280 to 120
+Fold 1 | Top 120 features | Class-wise F1s:
+  ascent: 0.9492
+  away: 0.8062
+  descent: 0.9091
+  hover: 0.9195
+  towards: 0.7623
+  turn: 0.8824
+Fold 1: Reduced from 1280 to 105
+Fold 1 | Top 105 features | Class-wise F1s:
+  ascent: 0.9417
+  away: 0.7857
+  descent: 0.8980
+  hover: 0.9195
+  towards: 0.7467
+  turn: 0.8841
+Fold 1: Reduced from 1280 to 90
+Fold 1 | Top 90 features | Class-wise F1s:
+  ascent: 0.9310
+  away: 0.7843
+  descent: 0.9045
+  hover: 0.9057
+  towards: 0.7568
+  turn: 0.9065
+Fold 1: Reduced from 1280 to 75
+Fold 1 | Top 75 features | Class-wise F1s:
+  ascent: 0.9322
+  away: 0.8031
+  descent: 0.9200
+  hover: 0.9125
+  towards: 0.7946
+  turn: 0.8741
+Fold 1: Reduced from 1280 to 60
+Fold 1 | Top 60 features | Class-wise F1s:
+  ascent: 0.9231
+  away: 0.7843
+  descent: 0.8934
+  hover: 0.9302
+  towards: 0.7826
+  turn: 0.8696
+Fold 1: Reduced from 1280 to 45
+Fold 1 | Top 45 features | Class-wise F1s:
+  ascent: 0.9270
+  away: 0.7698
+  descent: 0.8731
+  hover: 0.9266
+  towards: 0.7652
+  turn: 0.8652
+Fold 1: Reduced from 1280 to 30
+Fold 1 | Top 30 features | Class-wise F1s:
+  ascent: 0.9298
+  away: 0.7589
+  descent: 0.8844
+  hover: 0.9057
+  towards: 0.7565
+  turn: 0.8759
+Best number of features for fold 1: 195
+F1-scores for class ascent: 0.9744
+F1-scores for class away: 0.8245
+F1-scores for class descent: 0.9200
+F1-scores for class hover: 0.9160
+F1-scores for class towards: 0.7598
+F1-scores for class turn: 0.8873
+Fold 2: Reduced from 1280 to 459
+Fold 2 | Top 459 features | Class-wise F1s:
+  ascent: 0.9339
+  away: 0.6087
+  descent: 0.8558
+  hover: 0.8839
+  towards: 0.6742
+  turn: 0.8421
+Fold 2: Reduced from 1280 to 444
+Fold 2 | Top 444 features | Class-wise F1s:
+  ascent: 0.9262
+  away: 0.6207
+  descent: 0.8750
+  hover: 0.8867
+  towards: 0.6742
+  turn: 0.8462
+Fold 2: Reduced from 1280 to 429
+Fold 2 | Top 429 features | Class-wise F1s:
+  ascent: 0.9268
+  away: 0.6245
+  descent: 0.8713
+  hover: 0.8889
+  towards: 0.6566
+  turn: 0.8806
+Fold 2: Reduced from 1280 to 414
+Fold 2 | Top 414 features | Class-wise F1s:
+  ascent: 0.9231
+  away: 0.6230
+  descent: 0.8738
+  hover: 0.8867
+  towards: 0.6746
+  turn: 0.8182
+Fold 2: Reduced from 1280 to 399
+Fold 2 | Top 399 features | Class-wise F1s:
+  ascent: 0.9306
+  away: 0.6726
+  descent: 0.8708
+  hover: 0.8875
+  towards: 0.6866
+  turn: 0.8550
+Fold 2: Reduced from 1280 to 384
+Fold 2 | Top 384 features | Class-wise F1s:
+  ascent: 0.9268
+  away: 0.6549
+  descent: 0.8857
+  hover: 0.8968
+  towards: 0.6717
+  turn: 0.8421
+Fold 2: Reduced from 1280 to 369
+Fold 2 | Top 369 features | Class-wise F1s:
+  ascent: 0.9388
+  away: 0.6494
+  descent: 0.8976
+  hover: 0.8974
+  towards: 0.6517
+  turn: 0.8308
+Fold 2: Reduced from 1280 to 354
+Fold 2 | Top 354 features | Class-wise F1s:
+  ascent: 0.9306
+  away: 0.6303
+  descent: 0.8585
+  hover: 0.8730
+  towards: 0.6768
+  turn: 0.8636
+Fold 2: Reduced from 1280 to 339
+Fold 2 | Top 339 features | Class-wise F1s:
+  ascent: 0.9383
+  away: 0.6639
+  descent: 0.8835
+  hover: 0.8961
+  towards: 0.6868
+  turn: 0.8462
+Fold 2: Reduced from 1280 to 324
+Fold 2 | Top 324 features | Class-wise F1s:
+  ascent: 0.9421
+  away: 0.6444
+  descent: 0.8780
+  hover: 0.8750
+  towards: 0.6667
+  turn: 0.8722
+Fold 2: Reduced from 1280 to 309
+Fold 2 | Top 309 features | Class-wise F1s:
+  ascent: 0.9339
+  away: 0.6638
+  descent: 0.8835
+  hover: 0.8932
+  towards: 0.6617
+  turn: 0.8485
+Fold 2: Reduced from 1280 to 294
+Fold 2 | Top 294 features | Class-wise F1s:
+  ascent: 0.9143
+  away: 0.6502
+  descent: 0.8571
+  hover: 0.8824
+  towards: 0.6769
+  turn: 0.8571
+Fold 2: Reduced from 1280 to 279
+Fold 2 | Top 279 features | Class-wise F1s:
+  ascent: 0.9378
+  away: 0.6383
+  descent: 0.8732
+  hover: 0.8675
+  towards: 0.6818
+  turn: 0.8593
+Fold 2: Reduced from 1280 to 264
+Fold 2 | Top 264 features | Class-wise F1s:
+  ascent: 0.9231
+  away: 0.6582
+  descent: 0.8856
+  hover: 0.8808
+  towards: 0.7037
+  turn: 0.8421
+Fold 2: Reduced from 1280 to 249
+Fold 2 | Top 249 features | Class-wise F1s:
+  ascent: 0.9378
+  away: 0.6387
+  descent: 0.8627
+  hover: 0.8571
+  towards: 0.6741
+  turn: 0.8824
+Fold 2: Reduced from 1280 to 234
+Fold 2 | Top 234 features | Class-wise F1s:
+  ascent: 0.9383
+  away: 0.6446
+  descent: 0.9082
+  hover: 0.8533
+  towards: 0.6870
+  turn: 0.8382
+Fold 2: Reduced from 1280 to 219
+Fold 2 | Top 219 features | Class-wise F1s:
+  ascent: 0.9218
+  away: 0.6612
+  descent: 0.9020
+  hover: 0.8638
+  towards: 0.6992
+  turn: 0.8507
+Fold 2: Reduced from 1280 to 204
+Fold 2 | Top 204 features | Class-wise F1s:
+  ascent: 0.9383
+  away: 0.6444
+  descent: 0.9020
+  hover: 0.8750
+  towards: 0.6966
+  turn: 0.8421
+Fold 2: Reduced from 1280 to 189
+Fold 2 | Top 189 features | Class-wise F1s:
+  ascent: 0.9508
+  away: 0.6390
+  descent: 0.9109
+  hover: 0.8667
+  towards: 0.6866
+  turn: 0.8444
+Fold 2: Reduced from 1280 to 174
+Fold 2 | Top 174 features | Class-wise F1s:
+  ascent: 0.9421
+  away: 0.6525
+  descent: 0.9010
+  hover: 0.8571
+  towards: 0.6739
+  turn: 0.8722
+Fold 2: Reduced from 1280 to 159
+Fold 2 | Top 159 features | Class-wise F1s:
+  ascent: 0.9344
+  away: 0.6466
+  descent: 0.8976
+  hover: 0.8495
+  towards: 0.7029
+  turn: 0.8507
+Fold 2: Reduced from 1280 to 144
+Fold 2 | Top 144 features | Class-wise F1s:
+  ascent: 0.9250
+  away: 0.6417
+  descent: 0.9029
+  hover: 0.8581
+  towards: 0.7019
+  turn: 0.8676
+Fold 2: Reduced from 1280 to 129
+Fold 2 | Top 129 features | Class-wise F1s:
+  ascent: 0.9339
+  away: 0.6667
+  descent: 0.9073
+  hover: 0.8638
+  towards: 0.7085
+  turn: 0.8759
+Fold 2: Reduced from 1280 to 114
+Fold 2 | Top 114 features | Class-wise F1s:
+  ascent: 0.9421
+  away: 0.6387
+  descent: 0.9073
+  hover: 0.8600
+  towards: 0.6863
+  turn: 0.8507
+Fold 2: Reduced from 1280 to 99
+Fold 2 | Top 99 features | Class-wise F1s:
+  ascent: 0.9355
+  away: 0.6387
+  descent: 0.8900
+  hover: 0.8503
+  towards: 0.7007
+  turn: 0.8529
+Fold 2: Reduced from 1280 to 84
+Fold 2 | Top 84 features | Class-wise F1s:
+  ascent: 0.9113
+  away: 0.6471
+  descent: 0.8780
+  hover: 0.8374
+  towards: 0.6859
+  turn: 0.8271
+Fold 2: Reduced from 1280 to 69
+Fold 2 | Top 69 features | Class-wise F1s:
+  ascent: 0.9274
+  away: 0.6441
+  descent: 0.8614
+  hover: 0.8464
+  towards: 0.7127
+  turn: 0.8529
+Fold 2: Reduced from 1280 to 54
+Fold 2 | Top 54 features | Class-wise F1s:
+  ascent: 0.9084
+  away: 0.6109
+  descent: 0.8442
+  hover: 0.8194
+  towards: 0.6978
+  turn: 0.8444
+Fold 2: Reduced from 1280 to 39
+Fold 2 | Top 39 features | Class-wise F1s:
+  ascent: 0.8812
+  away: 0.6498
+  descent: 0.8528
+  hover: 0.8014
+  towards: 0.6835
+  turn: 0.8444
+Fold 2: Reduced from 1280 to 24
+Fold 2 | Top 24 features | Class-wise F1s:
+  ascent: 0.8625
+  away: 0.6393
+  descent: 0.7857
+  hover: 0.7798
+  towards: 0.6691
+  turn: 0.8333
+Best number of features for fold 2: 129
+F1-scores for class ascent: 0.9339
+F1-scores for class away: 0.6667
+F1-scores for class descent: 0.9073
+F1-scores for class hover: 0.8638
+F1-scores for class towards: 0.7085
+F1-scores for class turn: 0.8759
+Fold 3: Reduced from 1280 to 459
+Fold 3 | Top 459 features | Class-wise F1s:
+  ascent: 0.8729
+  away: 0.7264
+  descent: 0.8768
+  hover: 0.8714
+  towards: 0.6574
+  turn: 0.8305
+Fold 3: Reduced from 1280 to 444
+Fold 3 | Top 444 features | Class-wise F1s:
+  ascent: 0.8851
+  away: 0.7523
+  descent: 0.8889
+  hover: 0.8889
+  towards: 0.6923
+  turn: 0.8468
+Fold 3: Reduced from 1280 to 429
+Fold 3 | Top 429 features | Class-wise F1s:
+  ascent: 0.8889
+  away: 0.7421
+  descent: 0.8867
+  hover: 0.8743
+  towards: 0.6605
+  turn: 0.8468
+Fold 3: Reduced from 1280 to 414
+Fold 3 | Top 414 features | Class-wise F1s:
+  ascent: 0.8621
+  away: 0.7130
+  descent: 0.8696
+  hover: 0.8646
+  towards: 0.6095
+  turn: 0.8205
+Fold 3: Reduced from 1280 to 399
+Fold 3 | Top 399 features | Class-wise F1s:
+  ascent: 0.8703
+  away: 0.7324
+  descent: 0.8713
+  hover: 0.8843
+  towards: 0.6570
+  turn: 0.8276
+Fold 3: Reduced from 1280 to 384
+Fold 3 | Top 384 features | Class-wise F1s:
+  ascent: 0.8707
+  away: 0.7306
+  descent: 0.9073
+  hover: 0.8661
+  towards: 0.6573
+  turn: 0.8276
+Fold 3: Reduced from 1280 to 369
+Fold 3 | Top 369 features | Class-wise F1s:
+  ascent: 0.8803
+  away: 0.7477
+  descent: 0.8713
+  hover: 0.8632
+  towards: 0.6509
+  turn: 0.8276
+Fold 3: Reduced from 1280 to 354
+Fold 3 | Top 354 features | Class-wise F1s:
+  ascent: 0.8755
+  away: 0.7306
+  descent: 0.8696
+  hover: 0.8427
+  towards: 0.6364
+  turn: 0.8393
+Fold 3: Reduced from 1280 to 339
+Fold 3 | Top 339 features | Class-wise F1s:
+  ascent: 0.8793
+  away: 0.7602
+  descent: 0.8780
+  hover: 0.8571
+  towards: 0.6509
+  turn: 0.8136
+Fold 3: Reduced from 1280 to 324
+Fold 3 | Top 324 features | Class-wise F1s:
+  ascent: 0.8898
+  away: 0.7240
+  descent: 0.8878
+  hover: 0.8837
+  towards: 0.6700
+  turn: 0.8421
+Fold 3: Reduced from 1280 to 309
+Fold 3 | Top 309 features | Class-wise F1s:
+  ascent: 0.8766
+  away: 0.7324
+  descent: 0.8824
+  hover: 0.8564
+  towards: 0.6306
+  turn: 0.8276
+Fold 3: Reduced from 1280 to 294
+Fold 3 | Top 294 features | Class-wise F1s:
+  ascent: 0.8658
+  away: 0.7330
+  descent: 0.8846
+  hover: 0.8779
+  towards: 0.6602
+  turn: 0.8174
+Fold 3: Reduced from 1280 to 279
+Fold 3 | Top 279 features | Class-wise F1s:
+  ascent: 0.8718
+  away: 0.7256
+  descent: 0.8846
+  hover: 0.8831
+  towards: 0.6567
+  turn: 0.7805
+Fold 3: Reduced from 1280 to 264
+Fold 3 | Top 264 features | Class-wise F1s:
+  ascent: 0.8821
+  away: 0.7215
+  descent: 0.8804
+  hover: 0.8472
+  towards: 0.6335
+  turn: 0.8348
+Fold 3: Reduced from 1280 to 249
+Fold 3 | Top 249 features | Class-wise F1s:
+  ascent: 0.8889
+  away: 0.7273
+  descent: 0.8683
+  hover: 0.8338
+  towards: 0.5992
+  turn: 0.8070
+Fold 3: Reduced from 1280 to 234
+Fold 3 | Top 234 features | Class-wise F1s:
+  ascent: 0.8851
+  away: 0.7315
+  descent: 0.8683
+  hover: 0.8654
+  towards: 0.6476
+  turn: 0.7934
+Fold 3: Reduced from 1280 to 219
+Fold 3 | Top 219 features | Class-wise F1s:
+  ascent: 0.8841
+  away: 0.7256
+  descent: 0.8626
+  hover: 0.8480
+  towards: 0.6605
+  turn: 0.8034
+Fold 3: Reduced from 1280 to 204
+Fold 3 | Top 204 features | Class-wise F1s:
+  ascent: 0.8803
+  away: 0.7256
+  descent: 0.8922
+  hover: 0.8654
+  towards: 0.6728
+  turn: 0.8205
+Fold 3: Reduced from 1280 to 189
+Fold 3 | Top 189 features | Class-wise F1s:
+  ascent: 0.8996
+  away: 0.7222
+  descent: 0.9143
+  hover: 0.8654
+  towards: 0.6449
+  turn: 0.8136
+Fold 3: Reduced from 1280 to 174
+Fold 3 | Top 174 features | Class-wise F1s:
+  ascent: 0.8870
+  away: 0.7431
+  descent: 0.9010
+  hover: 0.8849
+  towards: 0.6893
+  turn: 0.8067
+Fold 3: Reduced from 1280 to 159
+Fold 3 | Top 159 features | Class-wise F1s:
+  ascent: 0.8957
+  away: 0.7943
+  descent: 0.9038
+  hover: 0.8786
+  towards: 0.6912
+  turn: 0.8348
+Fold 3: Reduced from 1280 to 144
+Fold 3 | Top 144 features | Class-wise F1s:
+  ascent: 0.9004
+  away: 0.7273
+  descent: 0.8922
+  hover: 0.8691
+  towards: 0.6603
+  turn: 0.8000
+Fold 3: Reduced from 1280 to 129
+Fold 3 | Top 129 features | Class-wise F1s:
+  ascent: 0.8889
+  away: 0.7628
+  descent: 0.9005
+  hover: 0.8587
+  towards: 0.6829
+  turn: 0.7619
+Fold 3: Reduced from 1280 to 114
+Fold 3 | Top 114 features | Class-wise F1s:
+  ascent: 0.8841
+  away: 0.7442
+  descent: 0.8796
+  hover: 0.8365
+  towards: 0.6919
+  turn: 0.8136
+Fold 3: Reduced from 1280 to 99
+Fold 3 | Top 99 features | Class-wise F1s:
+  ascent: 0.8646
+  away: 0.7834
+  descent: 0.8476
+  hover: 0.8197
+  towards: 0.6667
+  turn: 0.8067
+Fold 3: Reduced from 1280 to 84
+Fold 3 | Top 84 features | Class-wise F1s:
+  ascent: 0.8783
+  away: 0.7606
+  descent: 0.8727
+  hover: 0.7989
+  towards: 0.6909
+  turn: 0.7680
+Fold 3: Reduced from 1280 to 69
+Fold 3 | Top 69 features | Class-wise F1s:
+  ascent: 0.8987
+  away: 0.7364
+  descent: 0.8962
+  hover: 0.8248
+  towards: 0.6728
+  turn: 0.8067
+Fold 3: Reduced from 1280 to 54
+Fold 3 | Top 54 features | Class-wise F1s:
+  ascent: 0.8800
+  away: 0.7273
+  descent: 0.8396
+  hover: 0.7879
+  towards: 0.6884
+  turn: 0.7176
+Fold 3: Reduced from 1280 to 39
+Fold 3 | Top 39 features | Class-wise F1s:
+  ascent: 0.8811
+  away: 0.7059
+  descent: 0.8725
+  hover: 0.7805
+  towards: 0.6419
+  turn: 0.7077
+Fold 3: Reduced from 1280 to 24
+Fold 3 | Top 24 features | Class-wise F1s:
+  ascent: 0.8978
+  away: 0.7240
+  descent: 0.8696
+  hover: 0.7556
+  towards: 0.6422
+  turn: 0.6963
+Best number of features for fold 3: 159
+F1-scores for class ascent: 0.8957
+F1-scores for class away: 0.7943
+F1-scores for class descent: 0.9038
+F1-scores for class hover: 0.8786
+F1-scores for class towards: 0.6912
+F1-scores for class turn: 0.8348
+Fold 4: Reduced from 1280 to 476
+Fold 4 | Top 476 features | Class-wise F1s:
+  ascent: 0.9667
+  away: 0.7848
+  descent: 0.9067
+  hover: 0.9301
+  towards: 0.7830
+  turn: 0.8281
+Fold 4: Reduced from 1280 to 461
+Fold 4 | Top 461 features | Class-wise F1s:
+  ascent: 0.9398
+  away: 0.7731
+  descent: 0.8899
+  hover: 0.9421
+  towards: 0.7982
+  turn: 0.8594
+Fold 4: Reduced from 1280 to 446
+Fold 4 | Top 446 features | Class-wise F1s:
+  ascent: 0.9630
+  away: 0.7854
+  descent: 0.8919
+  hover: 0.9272
+  towards: 0.7707
+  turn: 0.8254
+Fold 4: Reduced from 1280 to 431
+Fold 4 | Top 431 features | Class-wise F1s:
+  ascent: 0.9431
+  away: 0.7918
+  descent: 0.8950
+  hover: 0.9280
+  towards: 0.7426
+  turn: 0.8189
+Fold 4: Reduced from 1280 to 416
+Fold 4 | Top 416 features | Class-wise F1s:
+  ascent: 0.9426
+  away: 0.7874
+  descent: 0.9032
+  hover: 0.9247
+  towards: 0.7475
+  turn: 0.8527
+Fold 4: Reduced from 1280 to 401
+Fold 4 | Top 401 features | Class-wise F1s:
+  ascent: 0.9540
+  away: 0.8000
+  descent: 0.8978
+  hover: 0.9373
+  towards: 0.7847
+  turn: 0.8372
+Fold 4: Reduced from 1280 to 386
+Fold 4 | Top 386 features | Class-wise F1s:
+  ascent: 0.9712
+  away: 0.7661
+  descent: 0.8972
+  hover: 0.9399
+  towards: 0.7477
+  turn: 0.8372
+Fold 4: Reduced from 1280 to 371
+Fold 4 | Top 371 features | Class-wise F1s:
+  ascent: 0.9712
+  away: 0.8099
+  descent: 0.8919
+  hover: 0.9206
+  towards: 0.7839
+  turn: 0.8615
+Fold 4: Reduced from 1280 to 356
+Fold 4 | Top 356 features | Class-wise F1s:
+  ascent: 0.9388
+  away: 0.7667
+  descent: 0.8899
+  hover: 0.9272
+  towards: 0.7714
+  turn: 0.8154
+Fold 4: Reduced from 1280 to 341
+Fold 4 | Top 341 features | Class-wise F1s:
+  ascent: 0.9587
+  away: 0.8000
+  descent: 0.8959
+  hover: 0.9247
+  towards: 0.7204
+  turn: 0.8125
+Fold 4: Reduced from 1280 to 326
+Fold 4 | Top 326 features | Class-wise F1s:
+  ascent: 0.9500
+  away: 0.7918
+  descent: 0.9067
+  hover: 0.9272
+  towards: 0.7562
+  turn: 0.8333
+Fold 4: Reduced from 1280 to 311
+Fold 4 | Top 311 features | Class-wise F1s:
+  ascent: 0.9551
+  away: 0.7750
+  descent: 0.8818
+  hover: 0.9243
+  towards: 0.7379
+  turn: 0.8571
+Fold 4: Reduced from 1280 to 296
+Fold 4 | Top 296 features | Class-wise F1s:
+  ascent: 0.9590
+  away: 0.7886
+  descent: 0.8959
+  hover: 0.9402
+  towards: 0.7961
+  turn: 0.8217
+Fold 4: Reduced from 1280 to 281
+Fold 4 | Top 281 features | Class-wise F1s:
+  ascent: 0.9587
+  away: 0.7815
+  descent: 0.9009
+  hover: 0.9140
+  towards: 0.7560
+  turn: 0.8244
+Fold 4: Reduced from 1280 to 266
+Fold 4 | Top 266 features | Class-wise F1s:
+  ascent: 0.9593
+  away: 0.7787
+  descent: 0.8899
+  hover: 0.9290
+  towards: 0.7692
+  turn: 0.8485
+Fold 4: Reduced from 1280 to 251
+Fold 4 | Top 251 features | Class-wise F1s:
+  ascent: 0.9512
+  away: 0.7750
+  descent: 0.8909
+  hover: 0.9293
+  towards: 0.7678
+  turn: 0.8372
+Fold 4: Reduced from 1280 to 236
+Fold 4 | Top 236 features | Class-wise F1s:
+  ascent: 0.9636
+  away: 0.7623
+  descent: 0.8807
+  hover: 0.9264
+  towards: 0.7150
+  turn: 0.8550
+Fold 4: Reduced from 1280 to 221
+Fold 4 | Top 221 features | Class-wise F1s:
+  ascent: 0.9675
+  away: 0.7967
+  descent: 0.8778
+  hover: 0.9396
+  towards: 0.7830
+  turn: 0.8308
+Fold 4: Reduced from 1280 to 206
+Fold 4 | Top 206 features | Class-wise F1s:
+  ascent: 0.9672
+  away: 0.7782
+  descent: 0.9000
+  hover: 0.9418
+  towards: 0.7763
+  turn: 0.8244
+Fold 4: Reduced from 1280 to 191
+Fold 4 | Top 191 features | Class-wise F1s:
+  ascent: 0.9675
+  away: 0.7934
+  descent: 0.9273
+  hover: 0.9185
+  towards: 0.7670
+  turn: 0.8636
+Fold 4: Reduced from 1280 to 176
+Fold 4 | Top 176 features | Class-wise F1s:
+  ascent: 0.9752
+  away: 0.7782
+  descent: 0.9032
+  hover: 0.9205
+  towards: 0.7685
+  turn: 0.8593
+Fold 4: Reduced from 1280 to 161
+Fold 4 | Top 161 features | Class-wise F1s:
+  ascent: 0.9587
+  away: 0.7660
+  descent: 0.9224
+  hover: 0.9214
+  towards: 0.7418
+  turn: 0.8529
+Fold 4: Reduced from 1280 to 146
+Fold 4 | Top 146 features | Class-wise F1s:
+  ascent: 0.9508
+  away: 0.7967
+  descent: 0.9231
+  hover: 0.9315
+  towards: 0.7729
+  turn: 0.8676
+Fold 4: Reduced from 1280 to 131
+Fold 4 | Top 131 features | Class-wise F1s:
+  ascent: 0.9421
+  away: 0.7830
+  descent: 0.8858
+  hover: 0.9243
+  towards: 0.7757
+  turn: 0.8657
+Fold 4: Reduced from 1280 to 116
+Fold 4 | Top 116 features | Class-wise F1s:
+  ascent: 0.9587
+  away: 0.7901
+  descent: 0.9132
+  hover: 0.9171
+  towards: 0.7465
+  turn: 0.8855
+Fold 4: Reduced from 1280 to 101
+Fold 4 | Top 101 features | Class-wise F1s:
+  ascent: 0.9627
+  away: 0.7745
+  descent: 0.8959
+  hover: 0.9290
+  towards: 0.7798
+  turn: 0.8421
+Fold 4: Reduced from 1280 to 86
+Fold 4 | Top 86 features | Class-wise F1s:
+  ascent: 0.9500
+  away: 0.7679
+  descent: 0.8899
+  hover: 0.9116
+  towards: 0.7589
+  turn: 0.8571
+Fold 4: Reduced from 1280 to 71
+Fold 4 | Top 71 features | Class-wise F1s:
+  ascent: 0.9474
+  away: 0.7699
+  descent: 0.9023
+  hover: 0.9167
+  towards: 0.7477
+  turn: 0.8550
+Fold 4: Reduced from 1280 to 56
+Fold 4 | Top 56 features | Class-wise F1s:
+  ascent: 0.9378
+  away: 0.7652
+  descent: 0.8940
+  hover: 0.9076
+  towards: 0.7636
+  turn: 0.8551
+Fold 4: Reduced from 1280 to 41
+Fold 4 | Top 41 features | Class-wise F1s:
+  ascent: 0.9143
+  away: 0.7336
+  descent: 0.8624
+  hover: 0.8949
+  towards: 0.7330
+  turn: 0.8000
+Fold 4: Reduced from 1280 to 26
+Fold 4 | Top 26 features | Class-wise F1s:
+  ascent: 0.9212
+  away: 0.7273
+  descent: 0.8326
+  hover: 0.8806
+  towards: 0.7163
+  turn: 0.8372
+Best number of features for fold 4: 146
+F1-scores for class ascent: 0.9508
+F1-scores for class away: 0.7967
+F1-scores for class descent: 0.9231
+F1-scores for class hover: 0.9315
+F1-scores for class towards: 0.7729
+F1-scores for class turn: 0.8676
+Fold 5: Reduced from 1280 to 464
+Fold 5 | Top 464 features | Class-wise F1s:
+  ascent: 0.9021
+  away: 0.6702
+  descent: 0.8780
+  hover: 0.9288
+  towards: 0.6972
+  turn: 0.8264
+Fold 5: Reduced from 1280 to 449
+Fold 5 | Top 449 features | Class-wise F1s:
+  ascent: 0.9153
+  away: 0.6740
+  descent: 0.8683
+  hover: 0.9312
+  towards: 0.7225
+  turn: 0.8571
+Fold 5: Reduced from 1280 to 434
+Fold 5 | Top 434 features | Class-wise F1s:
+  ascent: 0.8954
+  away: 0.7234
+  descent: 0.8824
+  hover: 0.9284
+  towards: 0.7156
+  turn: 0.8500
+Fold 5: Reduced from 1280 to 419
+Fold 5 | Top 419 features | Class-wise F1s:
+  ascent: 0.9099
+  away: 0.6911
+  descent: 0.8792
+  hover: 0.9309
+  towards: 0.7207
+  turn: 0.8205
+Fold 5: Reduced from 1280 to 404
+Fold 5 | Top 404 features | Class-wise F1s:
+  ascent: 0.9030
+  away: 0.6984
+  descent: 0.8835
+  hover: 0.9340
+  towards: 0.7615
+  turn: 0.8547
+Fold 5: Reduced from 1280 to 389
+Fold 5 | Top 389 features | Class-wise F1s:
+  ascent: 0.9021
+  away: 0.7243
+  descent: 0.8910
+  hover: 0.9340
+  towards: 0.7248
+  turn: 0.8475
+Fold 5: Reduced from 1280 to 374
+Fold 5 | Top 374 features | Class-wise F1s:
+  ascent: 0.9076
+  away: 0.7016
+  descent: 0.8812
+  hover: 0.9365
+  towards: 0.7387
+  turn: 0.8348
+Fold 5: Reduced from 1280 to 359
+Fold 5 | Top 359 features | Class-wise F1s:
+  ascent: 0.9270
+  away: 0.7097
+  descent: 0.8962
+  hover: 0.9288
+  towards: 0.7256
+  turn: 0.8430
+Fold 5: Reduced from 1280 to 344
+Fold 5 | Top 344 features | Class-wise F1s:
+  ascent: 0.9068
+  away: 0.6595
+  descent: 0.8626
+  hover: 0.9365
+  towards: 0.6820
+  turn: 0.8403
+Fold 5: Reduced from 1280 to 329
+Fold 5 | Top 329 features | Class-wise F1s:
+  ascent: 0.9145
+  away: 0.7083
+  descent: 0.8900
+  hover: 0.9218
+  towards: 0.7027
+  turn: 0.8305
+Fold 5: Reduced from 1280 to 314
+Fold 5 | Top 314 features | Class-wise F1s:
+  ascent: 0.9068
+  away: 0.6597
+  descent: 0.8835
+  hover: 0.9387
+  towards: 0.7000
+  turn: 0.8305
+Fold 5: Reduced from 1280 to 299
+Fold 5 | Top 299 features | Class-wise F1s:
+  ascent: 0.9060
+  away: 0.6702
+  descent: 0.9082
+  hover: 0.9362
+  towards: 0.7397
+  turn: 0.8403
+Fold 5: Reduced from 1280 to 284
+Fold 5 | Top 284 features | Class-wise F1s:
+  ascent: 0.9099
+  away: 0.6952
+  descent: 0.8824
+  hover: 0.9251
+  towards: 0.7313
+  turn: 0.8430
+Fold 5: Reduced from 1280 to 269
+Fold 5 | Top 269 features | Class-wise F1s:
+  ascent: 0.9114
+  away: 0.6564
+  descent: 0.8750
+  hover: 0.9431
+  towards: 0.7064
+  turn: 0.8571
+Fold 5: Reduced from 1280 to 254
+Fold 5 | Top 254 features | Class-wise F1s:
+  ascent: 0.9106
+  away: 0.6702
+  descent: 0.8942
+  hover: 0.9251
+  towards: 0.6937
+  turn: 0.8067
+Fold 5: Reduced from 1280 to 239
+Fold 5 | Top 239 features | Class-wise F1s:
+  ascent: 0.9304
+  away: 0.7047
+  descent: 0.8920
+  hover: 0.9260
+  towards: 0.7193
+  turn: 0.8376
+Fold 5: Reduced from 1280 to 224
+Fold 5 | Top 224 features | Class-wise F1s:
+  ascent: 0.9114
+  away: 0.6802
+  descent: 0.8932
+  hover: 0.9180
+  towards: 0.6909
+  turn: 0.8333
+Fold 5: Reduced from 1280 to 209
+Fold 5 | Top 209 features | Class-wise F1s:
+  ascent: 0.9076
+  away: 0.6845
+  descent: 0.8732
+  hover: 0.9286
+  towards: 0.7143
+  turn: 0.8167
+Fold 5: Reduced from 1280 to 194
+Fold 5 | Top 194 features | Class-wise F1s:
+  ascent: 0.9224
+  away: 0.7027
+  descent: 0.8774
+  hover: 0.9239
+  towards: 0.7368
+  turn: 0.8430
+Fold 5: Reduced from 1280 to 179
+Fold 5 | Top 179 features | Class-wise F1s:
+  ascent: 0.9185
+  away: 0.6595
+  descent: 0.8889
+  hover: 0.9121
+  towards: 0.6607
+  turn: 0.8226
+Fold 5: Reduced from 1280 to 164
+Fold 5 | Top 164 features | Class-wise F1s:
+  ascent: 0.9145
+  away: 0.6839
+  descent: 0.8804
+  hover: 0.9171
+  towards: 0.6987
+  turn: 0.8235
+Fold 5: Reduced from 1280 to 149
+Fold 5 | Top 149 features | Class-wise F1s:
+  ascent: 0.9231
+  away: 0.6875
+  descent: 0.8995
+  hover: 0.9155
+  towards: 0.6786
+  turn: 0.8167
+Fold 5: Reduced from 1280 to 134
+Fold 5 | Top 134 features | Class-wise F1s:
+  ascent: 0.9091
+  away: 0.6970
+  descent: 0.8900
+  hover: 0.8969
+  towards: 0.6903
+  turn: 0.8293
+Fold 5: Reduced from 1280 to 119
+Fold 5 | Top 119 features | Class-wise F1s:
+  ascent: 0.9316
+  away: 0.6738
+  descent: 0.9100
+  hover: 0.8840
+  towards: 0.6870
+  turn: 0.8197
+Fold 5: Reduced from 1280 to 104
+Fold 5 | Top 104 features | Class-wise F1s:
+  ascent: 0.9106
+  away: 0.6737
+  descent: 0.8889
+  hover: 0.8852
+  towards: 0.6960
+  turn: 0.8264
+Fold 5: Reduced from 1280 to 89
+Fold 5 | Top 89 features | Class-wise F1s:
+  ascent: 0.9185
+  away: 0.6771
+  descent: 0.8962
+  hover: 0.8747
+  towards: 0.6638
+  turn: 0.8099
+Fold 5: Reduced from 1280 to 74
+Fold 5 | Top 74 features | Class-wise F1s:
+  ascent: 0.9021
+  away: 0.6809
+  descent: 0.9091
+  hover: 0.8571
+  towards: 0.6520
+  turn: 0.7967
+Fold 5: Reduced from 1280 to 59
+Fold 5 | Top 59 features | Class-wise F1s:
+  ascent: 0.9145
+  away: 0.6806
+  descent: 0.8942
+  hover: 0.8743
+  towards: 0.6667
+  turn: 0.8320
+Fold 5: Reduced from 1280 to 44
+Fold 5 | Top 44 features | Class-wise F1s:
+  ascent: 0.9099
+  away: 0.6283
+  descent: 0.8447
+  hover: 0.8315
+  towards: 0.6126
+  turn: 0.7937
+Fold 5: Reduced from 1280 to 29
+Fold 5 | Top 29 features | Class-wise F1s:
+  ascent: 0.9030
+  away: 0.5969
+  descent: 0.8163
+  hover: 0.8108
+  towards: 0.6018
+  turn: 0.8571
+Best number of features for fold 5: 404
+F1-scores for class ascent: 0.9030
+F1-scores for class away: 0.6984
+F1-scores for class descent: 0.8835
+F1-scores for class hover: 0.9340
+F1-scores for class towards: 0.7615
+F1-scores for class turn: 0.8547

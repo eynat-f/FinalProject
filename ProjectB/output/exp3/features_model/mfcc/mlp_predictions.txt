@@ -1,0 +1,96 @@
+Reduced from 3367 to 1316
+Split 1:
+
+Accuracy: 0.8551829268292683
+Classification Report:
+
+              precision    recall  f1-score   support
+
+      ascent       0.95      0.97      0.96       114
+        away       0.76      0.76      0.76       120
+     descent       0.90      0.90      0.90       107
+       hover       0.90      0.99      0.94       120
+     towards       0.72      0.68      0.70       120
+        turn       0.94      0.83      0.88        75
+
+    accuracy                           0.86       656
+   macro avg       0.86      0.86      0.86       656
+weighted avg       0.85      0.86      0.85       656
+
+Reduced from 3367 to 1306
+Split 2:
+
+Accuracy: 0.8100719424460432
+Classification Report:
+
+              precision    recall  f1-score   support
+
+      ascent       0.95      0.93      0.94       120
+        away       0.62      0.60      0.61       120
+     descent       0.88      0.85      0.87       110
+       hover       0.91      0.95      0.93       150
+     towards       0.63      0.72      0.67       120
+        turn       0.93      0.76      0.84        75
+
+    accuracy                           0.81       695
+   macro avg       0.82      0.80      0.81       695
+weighted avg       0.82      0.81      0.81       695
+
+Reduced from 3367 to 1296
+Split 3:
+
+Accuracy: 0.7950219619326501
+Classification Report:
+
+              precision    recall  f1-score   support
+
+      ascent       0.91      0.86      0.88       114
+        away       0.60      0.53      0.56        96
+     descent       0.94      0.72      0.81       107
+       hover       0.92      0.93      0.93       210
+     towards       0.52      0.78      0.62        96
+        turn       0.90      0.78      0.84        60
+
+    accuracy                           0.80       683
+   macro avg       0.80      0.77      0.77       683
+weighted avg       0.82      0.80      0.80       683
+
+Reduced from 3367 to 1367
+Split 4:
+
+Accuracy: 0.8161244695898161
+Classification Report:
+
+              precision    recall  f1-score   support
+
+      ascent       0.94      0.95      0.95       120
+        away       0.68      0.71      0.69       112
+     descent       0.80      0.83      0.81       113
+       hover       0.88      0.90      0.89       180
+     towards       0.68      0.62      0.65       112
+        turn       0.91      0.83      0.87        70
+
+    accuracy                           0.82       707
+   macro avg       0.81      0.81      0.81       707
+weighted avg       0.82      0.82      0.82       707
+
+Reduced from 3367 to 1309
+Split 5:
+
+Accuracy: 0.7890044576523031
+Classification Report:
+
+              precision    recall  f1-score   support
+
+      ascent       0.88      0.96      0.92       114
+        away       0.63      0.62      0.62       104
+     descent       0.94      0.69      0.79       106
+       hover       0.91      0.92      0.92       180
+     towards       0.54      0.62      0.58       104
+        turn       0.81      0.83      0.82        65
+
+    accuracy                           0.79       673
+   macro avg       0.78      0.77      0.77       673
+weighted avg       0.80      0.79      0.79       673
+
+Average F1-scores over splits: {'ascent': 0.9285310365044535, 'away': 0.6492770624482271, 'descent': 0.8371403196448091, 'hover': 0.9212303554530805, 'towards': 0.645324102597093, 'turn': 0.8481614184979399}

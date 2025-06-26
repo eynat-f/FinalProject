@@ -1,0 +1,96 @@
+Number of components selected: 185
+Fold 1:
+
+Accuracy: 0.6821192052980133
+Classification Report:
+
+              precision    recall  f1-score   support
+
+      ascent       0.84      0.91      0.87       171
+        away       0.57      0.68      0.62       180
+     descent       0.73      0.56      0.63       171
+       hover       0.79      0.79      0.79       290
+     towards       0.53      0.57      0.55       180
+        turn       0.38      0.28      0.32        65
+
+    accuracy                           0.68      1057
+   macro avg       0.64      0.63      0.63      1057
+weighted avg       0.68      0.68      0.68      1057
+
+Number of components selected: 190
+Fold 2:
+
+Accuracy: 0.6752669039145908
+Classification Report:
+
+              precision    recall  f1-score   support
+
+      ascent       0.81      0.86      0.84       180
+        away       0.61      0.65      0.63       192
+     descent       0.69      0.57      0.62       180
+       hover       0.77      0.79      0.78       310
+     towards       0.53      0.55      0.54       192
+        turn       0.40      0.36      0.38        70
+
+    accuracy                           0.68      1124
+   macro avg       0.64      0.63      0.63      1124
+weighted avg       0.67      0.68      0.67      1124
+
+Number of components selected: 188
+Fold 3:
+
+Accuracy: 0.6861888111888111
+Classification Report:
+
+              precision    recall  f1-score   support
+
+      ascent       0.85      0.82      0.84       180
+        away       0.59      0.66      0.62       192
+     descent       0.56      0.62      0.59       180
+       hover       0.85      0.80      0.83       325
+     towards       0.55      0.62      0.58       192
+        turn       0.54      0.25      0.35        75
+
+    accuracy                           0.69      1144
+   macro avg       0.66      0.63      0.63      1144
+weighted avg       0.69      0.69      0.68      1144
+
+Number of components selected: 181
+Fold 4:
+
+Accuracy: 0.7122507122507122
+Classification Report:
+
+              precision    recall  f1-score   support
+
+      ascent       0.87      0.88      0.88       171
+        away       0.54      0.70      0.61       168
+     descent       0.77      0.66      0.71       171
+       hover       0.89      0.76      0.82       305
+     towards       0.54      0.62      0.58       168
+        turn       0.53      0.44      0.48        70
+
+    accuracy                           0.71      1053
+   macro avg       0.69      0.68      0.68      1053
+weighted avg       0.73      0.71      0.72      1053
+
+Number of components selected: 183
+Fold 5:
+
+Accuracy: 0.6121097445600757
+Classification Report:
+
+              precision    recall  f1-score   support
+
+      ascent       0.75      0.84      0.79       171
+        away       0.55      0.52      0.54       180
+     descent       0.49      0.52      0.51       171
+       hover       0.72      0.76      0.74       290
+     towards       0.50      0.49      0.50       180
+        turn       0.35      0.18      0.24        65
+
+    accuracy                           0.61      1057
+   macro avg       0.56      0.55      0.55      1057
+weighted avg       0.60      0.61      0.60      1057
+
+Average F1-scores over folds: {'ascent': 0.842516645937702, 'away': 0.6040549779541634, 'descent': 0.6123671277250873, 'hover': 0.792148665242213, 'towards': 0.5488903469167019, 'turn': 0.3539251474926254}

@@ -1,0 +1,15 @@
+in the middle:
+17:40- high noise
+17:44- low noise, moved half a meter
+
+fly to the right of the mic:
+17:50- low noise
+17:52- medium noise
+17:56- high noise, moved a little
+17:57- high noise
+
+fly to the left of the mic:
+18:00- high noise, moved a little
+18:02- high noise
+18:03- medium noise
+18:05- low noise

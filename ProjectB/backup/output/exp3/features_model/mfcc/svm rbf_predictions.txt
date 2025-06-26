@@ -1,0 +1,101 @@
+Reduced from 3367 to 893
+Number of components selected: 259
+Split 1:
+
+Accuracy: 0.8551829268292683
+Classification Report:
+
+              precision    recall  f1-score   support
+
+      ascent       0.95      0.98      0.97       114
+        away       0.72      0.76      0.74       120
+     descent       0.92      0.86      0.89       107
+       hover       0.92      1.00      0.96       120
+     towards       0.71      0.68      0.70       120
+        turn       0.96      0.85      0.90        75
+
+    accuracy                           0.86       656
+   macro avg       0.86      0.86      0.86       656
+weighted avg       0.86      0.86      0.85       656
+
+Reduced from 3367 to 848
+Number of components selected: 235
+Split 2:
+
+Accuracy: 0.841726618705036
+Classification Report:
+
+              precision    recall  f1-score   support
+
+      ascent       0.94      0.96      0.95       120
+        away       0.68      0.66      0.67       120
+     descent       0.97      0.86      0.91       110
+       hover       0.87      0.97      0.92       150
+     towards       0.70      0.74      0.72       120
+        turn       0.97      0.83      0.89        75
+
+    accuracy                           0.84       695
+   macro avg       0.85      0.84      0.84       695
+weighted avg       0.85      0.84      0.84       695
+
+Reduced from 3367 to 886
+Number of components selected: 226
+Split 3:
+
+Accuracy: 0.8155197657393851
+Classification Report:
+
+              precision    recall  f1-score   support
+
+      ascent       0.92      0.92      0.92       114
+        away       0.59      0.74      0.66        96
+     descent       0.84      0.79      0.82       107
+       hover       0.95      0.91      0.93       210
+     towards       0.59      0.59      0.59        96
+        turn       0.96      0.80      0.87        60
+
+    accuracy                           0.82       683
+   macro avg       0.81      0.79      0.80       683
+weighted avg       0.83      0.82      0.82       683
+
+Reduced from 3367 to 862
+Number of components selected: 247
+Split 4:
+
+Accuracy: 0.8147100424328148
+Classification Report:
+
+              precision    recall  f1-score   support
+
+      ascent       0.93      0.95      0.94       120
+        away       0.65      0.78      0.71       112
+     descent       0.76      0.81      0.78       113
+       hover       0.93      0.87      0.90       180
+     towards       0.68      0.65      0.66       112
+        turn       1.00      0.79      0.88        70
+
+    accuracy                           0.81       707
+   macro avg       0.82      0.81      0.81       707
+weighted avg       0.82      0.81      0.82       707
+
+Reduced from 3367 to 872
+Number of components selected: 241
+Split 5:
+
+Accuracy: 0.8053491827637445
+Classification Report:
+
+              precision    recall  f1-score   support
+
+      ascent       0.96      0.94      0.95       114
+        away       0.62      0.61      0.61       104
+     descent       0.79      0.79      0.79       106
+       hover       0.94      0.94      0.94       180
+     towards       0.54      0.62      0.58       104
+        turn       0.96      0.85      0.90        65
+
+    accuracy                           0.81       673
+   macro avg       0.80      0.79      0.80       673
+weighted avg       0.81      0.81      0.81       673
+
+Average F1-scores over splits: {'ascent': 0.9444314711808565, 'away': 0.6777499400844349, 'descent': 0.838645365935025, 'hover': 0.9285923774835343, 'towards': 0.6499154432244686, 'turn': 0.889572279725809}

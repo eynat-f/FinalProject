@@ -1,0 +1,42 @@
+Average segment prediction rate for mfcc random forest over all folds: 82.79
+Average section prediction rate for mfcc random forest over all folds: 91.93
+Average weighted section prediction rate for mfcc random forest over all folds: 94.18
+
+Average segment prediction rate for mfcc svm rbf over all folds: 84.71
+Average section prediction rate for mfcc svm rbf over all folds: 92.59
+Average weighted section prediction rate for mfcc svm rbf over all folds: 94.49
+
+Average segment prediction rate for mfcc mlp over all folds: 84.18
+Average section prediction rate for mfcc mlp over all folds: 93.26
+Average weighted section prediction rate for mfcc mlp over all folds: 94.95
+
+
+
+Average segment prediction rate for harmonic random forest over all folds: 84.34
+Average section prediction rate for harmonic random forest over all folds: 94.01
+Average weighted section prediction rate for harmonic random forest over all folds: 95.44
+
+Average segment prediction rate for harmonic svm rbf over all folds: 84.23
+Average section prediction rate for harmonic svm rbf over all folds: 92.87
+Average weighted section prediction rate for harmonic svm rbf over all folds: 93.80
+
+Average segment prediction rate for harmonic mlp over all folds: 84.45
+Average section prediction rate for harmonic mlp over all folds: 94.19
+Average weighted section prediction rate for harmonic mlp over all folds: 95.38
+
+
+
+Average segment prediction rate for dwt random forest over all folds: 82.76
+Average section prediction rate for dwt random forest over all folds: 92.61
+Average weighted section prediction rate for dwt random forest over all folds: 92.44
+
+Average segment prediction rate for dwt svm rbf over all folds: 80.88
+Average section prediction rate for dwt svm rbf over all folds: 91.06
+Average weighted section prediction rate for dwt svm rbf over all folds: 92.06
+
+Average segment prediction rate for dwt mlp over all folds: 83.95
+Average section prediction rate for dwt mlp over all folds: 94.18
+Average weighted section prediction rate for dwt mlp over all folds: 95.22
+
+
+

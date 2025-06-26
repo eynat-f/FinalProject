@@ -1,0 +1,28 @@
+mic in the middle:
+18:20- low noise
+18:22- medium noise
+18:25- high noise
+
+from the mic left:
+18:30- high noise
+18:31- medium noise
+18:37- medium noise
+18:40- high noise
+18:42- high noise
+19:19- high noise
+19:20- medium noise
+19:22- low noise
+19:24- low noise
+
+from before mic to the left:
+18:51- high noise
+18:54- medium noise
+18:55- low noise
+
+from the mic right:
+18:57- low noise
+19:01- medium noise
+19:14- high noise
+19:39- high noise
+19:40- medium noise
+19:42- low noise

@@ -1,0 +1,1807 @@
+Number of components selected after PCA: 77
+Fold 1: Reduced from 1280 to 680
+Fold 1 | Top 680 features | Class-wise F1s:
+  ascent: 0.9130
+  away: 0.7206
+  descent: 0.8867
+  hover: 0.9160
+  towards: 0.7544
+  turn: 0.7324
+Number of components selected after PCA: 75
+Fold 1: Reduced from 1280 to 660
+Fold 1 | Top 660 features | Class-wise F1s:
+  ascent: 0.9177
+  away: 0.7160
+  descent: 0.8867
+  hover: 0.9125
+  towards: 0.7532
+  turn: 0.7376
+Number of components selected after PCA: 73
+Fold 1: Reduced from 1280 to 640
+Fold 1 | Top 640 features | Class-wise F1s:
+  ascent: 0.9177
+  away: 0.7265
+  descent: 0.8812
+  hover: 0.9160
+  towards: 0.7468
+  turn: 0.7482
+Number of components selected after PCA: 72
+Fold 1: Reduced from 1280 to 620
+Fold 1 | Top 620 features | Class-wise F1s:
+  ascent: 0.9177
+  away: 0.7377
+  descent: 0.8867
+  hover: 0.9125
+  towards: 0.7468
+  turn: 0.7536
+Number of components selected after PCA: 70
+Fold 1: Reduced from 1280 to 600
+Fold 1 | Top 600 features | Class-wise F1s:
+  ascent: 0.9138
+  away: 0.7347
+  descent: 0.8867
+  hover: 0.9160
+  towards: 0.7468
+  turn: 0.7591
+Number of components selected after PCA: 68
+Fold 1: Reduced from 1280 to 580
+Fold 1 | Top 580 features | Class-wise F1s:
+  ascent: 0.9185
+  away: 0.7419
+  descent: 0.8800
+  hover: 0.9091
+  towards: 0.7478
+  turn: 0.7591
+Number of components selected after PCA: 63
+Fold 1: Reduced from 1280 to 560
+Fold 1 | Top 560 features | Class-wise F1s:
+  ascent: 0.9270
+  away: 0.7317
+  descent: 0.9010
+  hover: 0.9160
+  towards: 0.7468
+  turn: 0.7647
+Number of components selected after PCA: 62
+Fold 1: Reduced from 1280 to 540
+Fold 1 | Top 540 features | Class-wise F1s:
+  ascent: 0.9270
+  away: 0.7280
+  descent: 0.9010
+  hover: 0.9160
+  towards: 0.7304
+  turn: 0.7704
+Number of components selected after PCA: 60
+Fold 1: Reduced from 1280 to 520
+Fold 1 | Top 520 features | Class-wise F1s:
+  ascent: 0.9270
+  away: 0.7154
+  descent: 0.8911
+  hover: 0.9091
+  towards: 0.7446
+  turn: 0.7647
+Number of components selected after PCA: 58
+Fold 1: Reduced from 1280 to 500
+Fold 1 | Top 500 features | Class-wise F1s:
+  ascent: 0.9316
+  away: 0.7126
+  descent: 0.8966
+  hover: 0.9125
+  towards: 0.7391
+  turn: 0.7704
+Number of components selected after PCA: 56
+Fold 1: Reduced from 1280 to 480
+Fold 1 | Top 480 features | Class-wise F1s:
+  ascent: 0.9316
+  away: 0.7131
+  descent: 0.8966
+  hover: 0.9057
+  towards: 0.7478
+  turn: 0.7647
+Number of components selected after PCA: 54
+Fold 1: Reduced from 1280 to 460
+Fold 1 | Top 460 features | Class-wise F1s:
+  ascent: 0.9316
+  away: 0.7154
+  descent: 0.9055
+  hover: 0.9160
+  towards: 0.7350
+  turn: 0.7704
+Number of components selected after PCA: 52
+Fold 1: Reduced from 1280 to 440
+Fold 1 | Top 440 features | Class-wise F1s:
+  ascent: 0.9231
+  away: 0.7126
+  descent: 0.9000
+  hover: 0.9091
+  towards: 0.7359
+  turn: 0.7647
+Number of components selected after PCA: 51
+Fold 1: Reduced from 1280 to 420
+Fold 1 | Top 420 features | Class-wise F1s:
+  ascent: 0.9231
+  away: 0.7126
+  descent: 0.9000
+  hover: 0.9091
+  towards: 0.7359
+  turn: 0.7647
+Number of components selected after PCA: 49
+Fold 1: Reduced from 1280 to 400
+Fold 1 | Top 400 features | Class-wise F1s:
+  ascent: 0.9237
+  away: 0.7097
+  descent: 0.8900
+  hover: 0.9091
+  towards: 0.7511
+  turn: 0.7704
+Number of components selected after PCA: 47
+Fold 1: Reduced from 1280 to 380
+Fold 1 | Top 380 features | Class-wise F1s:
+  ascent: 0.9191
+  away: 0.7200
+  descent: 0.8889
+  hover: 0.9091
+  towards: 0.7511
+  turn: 0.7647
+Number of components selected after PCA: 45
+Fold 1: Reduced from 1280 to 360
+Fold 1 | Top 360 features | Class-wise F1s:
+  ascent: 0.9270
+  away: 0.7206
+  descent: 0.9010
+  hover: 0.9057
+  towards: 0.7565
+  turn: 0.7704
+Number of components selected after PCA: 43
+Fold 1: Reduced from 1280 to 340
+Fold 1 | Top 340 features | Class-wise F1s:
+  ascent: 0.9397
+  away: 0.7073
+  descent: 0.9055
+  hover: 0.9091
+  towards: 0.7382
+  turn: 0.7941
+Number of components selected after PCA: 42
+Fold 1: Reduced from 1280 to 320
+Fold 1 | Top 320 features | Class-wise F1s:
+  ascent: 0.9316
+  away: 0.7149
+  descent: 0.9154
+  hover: 0.9125
+  towards: 0.7446
+  turn: 0.7910
+Number of components selected after PCA: 41
+Fold 1: Reduced from 1280 to 300
+Fold 1 | Top 300 features | Class-wise F1s:
+  ascent: 0.9356
+  away: 0.7068
+  descent: 0.9045
+  hover: 0.9160
+  towards: 0.7436
+  turn: 0.8000
+Number of components selected after PCA: 39
+Fold 1: Reduced from 1280 to 280
+Fold 1 | Top 280 features | Class-wise F1s:
+  ascent: 0.9277
+  away: 0.7020
+  descent: 0.8900
+  hover: 0.9084
+  towards: 0.7458
+  turn: 0.7910
+Number of components selected after PCA: 36
+Fold 1: Reduced from 1280 to 260
+Fold 1 | Top 260 features | Class-wise F1s:
+  ascent: 0.9397
+  away: 0.7097
+  descent: 0.8945
+  hover: 0.8981
+  towards: 0.7359
+  turn: 0.8175
+Number of components selected after PCA: 35
+Fold 1: Reduced from 1280 to 240
+Fold 1 | Top 240 features | Class-wise F1s:
+  ascent: 0.9258
+  away: 0.6988
+  descent: 0.8776
+  hover: 0.8947
+  towards: 0.7414
+  turn: 0.7857
+Number of components selected after PCA: 33
+Fold 1: Reduced from 1280 to 220
+Fold 1 | Top 220 features | Class-wise F1s:
+  ascent: 0.9258
+  away: 0.7068
+  descent: 0.8776
+  hover: 0.8981
+  towards: 0.7446
+  turn: 0.8028
+Number of components selected after PCA: 31
+Fold 1: Reduced from 1280 to 200
+Fold 1 | Top 200 features | Class-wise F1s:
+  ascent: 0.9185
+  away: 0.7213
+  descent: 0.8586
+  hover: 0.9015
+  towards: 0.7414
+  turn: 0.7801
+Number of components selected after PCA: 28
+Fold 1: Reduced from 1280 to 180
+Fold 1 | Top 180 features | Class-wise F1s:
+  ascent: 0.9231
+  away: 0.7160
+  descent: 0.8673
+  hover: 0.9125
+  towards: 0.7521
+  turn: 0.7746
+Number of components selected after PCA: 26
+Fold 1: Reduced from 1280 to 160
+Fold 1 | Top 160 features | Class-wise F1s:
+  ascent: 0.9277
+  away: 0.7184
+  descent: 0.8660
+  hover: 0.9091
+  towards: 0.7404
+  turn: 0.7914
+Number of components selected after PCA: 25
+Fold 1: Reduced from 1280 to 140
+Fold 1 | Top 140 features | Class-wise F1s:
+  ascent: 0.9191
+  away: 0.7131
+  descent: 0.8601
+  hover: 0.9057
+  towards: 0.7436
+  turn: 0.8085
+Number of components selected after PCA: 22
+Fold 1: Reduced from 1280 to 120
+Fold 1 | Top 120 features | Class-wise F1s:
+  ascent: 0.9270
+  away: 0.7184
+  descent: 0.8763
+  hover: 0.9091
+  towards: 0.7554
+  turn: 0.8112
+Number of components selected after PCA: 21
+Fold 1: Reduced from 1280 to 100
+Fold 1 | Top 100 features | Class-wise F1s:
+  ascent: 0.9163
+  away: 0.7194
+  descent: 0.8557
+  hover: 0.9231
+  towards: 0.7359
+  turn: 0.7891
+Number of components selected after PCA: 20
+Fold 1: Reduced from 1280 to 90
+Fold 1 | Top 90 features | Class-wise F1s:
+  ascent: 0.9163
+  away: 0.7570
+  descent: 0.8557
+  hover: 0.9195
+  towards: 0.7679
+  turn: 0.8028
+Number of components selected after PCA: 19
+Fold 1: Reduced from 1280 to 80
+Fold 1 | Top 80 features | Class-wise F1s:
+  ascent: 0.8978
+  away: 0.7054
+  descent: 0.8601
+  hover: 0.9231
+  towards: 0.7229
+  turn: 0.6929
+Number of components selected after PCA: 16
+Fold 1: Reduced from 1280 to 70
+Fold 1 | Top 70 features | Class-wise F1s:
+  ascent: 0.8700
+  away: 0.7023
+  descent: 0.8705
+  hover: 0.9023
+  towards: 0.7243
+  turn: 0.6880
+Number of components selected after PCA: 14
+Fold 1: Reduced from 1280 to 60
+Fold 1 | Top 60 features | Class-wise F1s:
+  ascent: 0.8756
+  away: 0.6767
+  descent: 0.8137
+  hover: 0.8889
+  towards: 0.7234
+  turn: 0.7000
+Number of components selected after PCA: 13
+Fold 1: Reduced from 1280 to 50
+Fold 1 | Top 50 features | Class-wise F1s:
+  ascent: 0.8756
+  away: 0.6742
+  descent: 0.8374
+  hover: 0.8727
+  towards: 0.7117
+  turn: 0.6719
+Number of components selected after PCA: 10
+Fold 1: Reduced from 1280 to 40
+Fold 1 | Top 40 features | Class-wise F1s:
+  ascent: 0.7590
+  away: 0.6503
+  descent: 0.8134
+  hover: 0.8824
+  towards: 0.6667
+  turn: 0.5517
+Number of components selected after PCA: 9
+Fold 1: Reduced from 1280 to 30
+Fold 1 | Top 30 features | Class-wise F1s:
+  ascent: 0.7449
+  away: 0.6593
+  descent: 0.7981
+  hover: 0.8602
+  towards: 0.7173
+  turn: 0.5738
+Number of components selected after PCA: 7
+Fold 1: Reduced from 1280 to 20
+Fold 1 | Top 20 features | Class-wise F1s:
+  ascent: 0.6981
+  away: 0.6465
+  descent: 0.6279
+  hover: 0.8451
+  towards: 0.6466
+  turn: 0.5565
+Number of components selected after PCA: 6
+Fold 1: Reduced from 1280 to 10
+Fold 1 | Top 10 features | Class-wise F1s:
+  ascent: 0.7216
+  away: 0.6601
+  descent: 0.5896
+  hover: 0.9231
+  towards: 0.6824
+  turn: 0.4839
+Number of components selected after PCA: 76
+Fold 2: Reduced from 1280 to 680
+Fold 2 | Top 680 features | Class-wise F1s:
+  ascent: 0.9191
+  away: 0.5556
+  descent: 0.8021
+  hover: 0.8498
+  towards: 0.6160
+  turn: 0.8296
+Number of components selected after PCA: 75
+Fold 2: Reduced from 1280 to 660
+Fold 2 | Top 660 features | Class-wise F1s:
+  ascent: 0.9191
+  away: 0.5578
+  descent: 0.7979
+  hover: 0.8498
+  towards: 0.6107
+  turn: 0.8235
+Number of components selected after PCA: 73
+Fold 2: Reduced from 1280 to 640
+Fold 2 | Top 640 features | Class-wise F1s:
+  ascent: 0.9068
+  away: 0.5520
+  descent: 0.7917
+  hover: 0.8498
+  towards: 0.6084
+  turn: 0.8235
+Number of components selected after PCA: 71
+Fold 2: Reduced from 1280 to 620
+Fold 2 | Top 620 features | Class-wise F1s:
+  ascent: 0.9030
+  away: 0.5542
+  descent: 0.7853
+  hover: 0.8498
+  towards: 0.6113
+  turn: 0.8296
+Number of components selected after PCA: 69
+Fold 2: Reduced from 1280 to 600
+Fold 2 | Top 600 features | Class-wise F1s:
+  ascent: 0.9030
+  away: 0.5498
+  descent: 0.7895
+  hover: 0.8498
+  towards: 0.6061
+  turn: 0.8296
+Number of components selected after PCA: 67
+Fold 2: Reduced from 1280 to 580
+Fold 2 | Top 580 features | Class-wise F1s:
+  ascent: 0.9068
+  away: 0.5476
+  descent: 0.7895
+  hover: 0.8462
+  towards: 0.6061
+  turn: 0.8235
+Number of components selected after PCA: 63
+Fold 2: Reduced from 1280 to 560
+Fold 2 | Top 560 features | Class-wise F1s:
+  ascent: 0.9114
+  away: 0.5391
+  descent: 0.7958
+  hover: 0.8387
+  towards: 0.6054
+  turn: 0.8296
+Number of components selected after PCA: 61
+Fold 2: Reduced from 1280 to 540
+Fold 2 | Top 540 features | Class-wise F1s:
+  ascent: 0.9114
+  away: 0.5591
+  descent: 0.7958
+  hover: 0.8424
+  towards: 0.6084
+  turn: 0.8209
+Number of components selected after PCA: 59
+Fold 2: Reduced from 1280 to 520
+Fold 2 | Top 520 features | Class-wise F1s:
+  ascent: 0.9038
+  away: 0.5657
+  descent: 0.7917
+  hover: 0.8387
+  towards: 0.6061
+  turn: 0.8209
+Number of components selected after PCA: 57
+Fold 2: Reduced from 1280 to 500
+Fold 2 | Top 500 features | Class-wise F1s:
+  ascent: 0.9038
+  away: 0.5714
+  descent: 0.7876
+  hover: 0.8387
+  towards: 0.6183
+  turn: 0.8209
+Number of components selected after PCA: 55
+Fold 2: Reduced from 1280 to 480
+Fold 2 | Top 480 features | Class-wise F1s:
+  ascent: 0.9000
+  away: 0.5760
+  descent: 0.7958
+  hover: 0.8387
+  towards: 0.6189
+  turn: 0.8358
+Number of components selected after PCA: 53
+Fold 2: Reduced from 1280 to 460
+Fold 2 | Top 460 features | Class-wise F1s:
+  ascent: 0.9083
+  away: 0.5737
+  descent: 0.7958
+  hover: 0.8350
+  towards: 0.6136
+  turn: 0.8296
+Number of components selected after PCA: 51
+Fold 2: Reduced from 1280 to 440
+Fold 2 | Top 440 features | Class-wise F1s:
+  ascent: 0.9083
+  away: 0.5806
+  descent: 0.8021
+  hover: 0.8424
+  towards: 0.6241
+  turn: 0.8271
+Number of components selected after PCA: 50
+Fold 2: Reduced from 1280 to 420
+Fold 2 | Top 420 features | Class-wise F1s:
+  ascent: 0.9205
+  away: 0.5863
+  descent: 0.8021
+  hover: 0.8489
+  towards: 0.6264
+  turn: 0.8209
+Number of components selected after PCA: 48
+Fold 2: Reduced from 1280 to 400
+Fold 2 | Top 400 features | Class-wise F1s:
+  ascent: 0.9046
+  away: 0.5840
+  descent: 0.7895
+  hover: 0.8397
+  towards: 0.6312
+  turn: 0.8209
+Number of components selected after PCA: 46
+Fold 2: Reduced from 1280 to 380
+Fold 2 | Top 380 features | Class-wise F1s:
+  ascent: 0.9129
+  away: 0.5920
+  descent: 0.7895
+  hover: 0.8462
+  towards: 0.6336
+  turn: 0.8296
+Number of components selected after PCA: 44
+Fold 2: Reduced from 1280 to 360
+Fold 2 | Top 360 features | Class-wise F1s:
+  ascent: 0.9250
+  away: 0.6024
+  descent: 0.8021
+  hover: 0.8526
+  towards: 0.6412
+  turn: 0.8296
+Number of components selected after PCA: 42
+Fold 2: Reduced from 1280 to 340
+Fold 2 | Top 340 features | Class-wise F1s:
+  ascent: 0.9136
+  away: 0.5959
+  descent: 0.7872
+  hover: 0.8489
+  towards: 0.6592
+  turn: 0.8382
+Number of components selected after PCA: 41
+Fold 2: Reduced from 1280 to 320
+Fold 2 | Top 320 features | Class-wise F1s:
+  ascent: 0.9091
+  away: 0.6008
+  descent: 0.8000
+  hover: 0.8526
+  towards: 0.6716
+  turn: 0.8000
+Number of components selected after PCA: 40
+Fold 2: Reduced from 1280 to 300
+Fold 2 | Top 300 features | Class-wise F1s:
+  ascent: 0.9136
+  away: 0.6008
+  descent: 0.7979
+  hover: 0.8526
+  towards: 0.6716
+  turn: 0.8088
+Number of components selected after PCA: 38
+Fold 2: Reduced from 1280 to 280
+Fold 2 | Top 280 features | Class-wise F1s:
+  ascent: 0.9143
+  away: 0.6091
+  descent: 0.7979
+  hover: 0.8581
+  towards: 0.6691
+  turn: 0.8148
+Number of components selected after PCA: 36
+Fold 2: Reduced from 1280 to 260
+Fold 2 | Top 260 features | Class-wise F1s:
+  ascent: 0.9300
+  away: 0.6154
+  descent: 0.8128
+  hover: 0.8506
+  towards: 0.6617
+  turn: 0.8088
+Number of components selected after PCA: 34
+Fold 2: Reduced from 1280 to 240
+Fold 2 | Top 240 features | Class-wise F1s:
+  ascent: 0.9224
+  away: 0.6016
+  descent: 0.7979
+  hover: 0.8526
+  towards: 0.6667
+  turn: 0.8444
+Number of components selected after PCA: 33
+Fold 2: Reduced from 1280 to 220
+Fold 2 | Top 220 features | Class-wise F1s:
+  ascent: 0.9268
+  away: 0.6098
+  descent: 0.7914
+  hover: 0.8516
+  towards: 0.6742
+  turn: 0.8358
+Number of components selected after PCA: 31
+Fold 2: Reduced from 1280 to 200
+Fold 2 | Top 200 features | Class-wise F1s:
+  ascent: 0.9344
+  away: 0.5959
+  descent: 0.8105
+  hover: 0.8469
+  towards: 0.6642
+  turn: 0.8271
+Number of components selected after PCA: 28
+Fold 2: Reduced from 1280 to 180
+Fold 2 | Top 180 features | Class-wise F1s:
+  ascent: 0.9004
+  away: 0.6058
+  descent: 0.7979
+  hover: 0.8411
+  towards: 0.6569
+  turn: 0.8358
+Number of components selected after PCA: 26
+Fold 2: Reduced from 1280 to 160
+Fold 2 | Top 160 features | Class-wise F1s:
+  ascent: 0.8803
+  away: 0.6091
+  descent: 0.7853
+  hover: 0.8110
+  towards: 0.6642
+  turn: 0.8333
+Number of components selected after PCA: 25
+Fold 2: Reduced from 1280 to 140
+Fold 2 | Top 140 features | Class-wise F1s:
+  ascent: 0.8906
+  away: 0.6058
+  descent: 0.8085
+  hover: 0.8294
+  towards: 0.6642
+  turn: 0.8333
+Number of components selected after PCA: 22
+Fold 2: Reduced from 1280 to 120
+Fold 2 | Top 120 features | Class-wise F1s:
+  ascent: 0.8821
+  away: 0.6179
+  descent: 0.7957
+  hover: 0.7986
+  towards: 0.6715
+  turn: 0.8571
+Number of components selected after PCA: 21
+Fold 2: Reduced from 1280 to 100
+Fold 2 | Top 100 features | Class-wise F1s:
+  ascent: 0.9134
+  away: 0.6032
+  descent: 0.7912
+  hover: 0.8418
+  towards: 0.6618
+  turn: 0.8308
+Number of components selected after PCA: 20
+Fold 2: Reduced from 1280 to 90
+Fold 2 | Top 90 features | Class-wise F1s:
+  ascent: 0.9084
+  away: 0.5938
+  descent: 0.7760
+  hover: 0.8456
+  towards: 0.6667
+  turn: 0.8485
+Number of components selected after PCA: 19
+Fold 2: Reduced from 1280 to 80
+Fold 2 | Top 80 features | Class-wise F1s:
+  ascent: 0.8880
+  away: 0.5748
+  descent: 0.7937
+  hover: 0.8638
+  towards: 0.6618
+  turn: 0.7538
+Number of components selected after PCA: 17
+Fold 2: Reduced from 1280 to 70
+Fold 2 | Top 70 features | Class-wise F1s:
+  ascent: 0.8870
+  away: 0.5781
+  descent: 0.8042
+  hover: 0.8485
+  towards: 0.6360
+  turn: 0.7619
+Number of components selected after PCA: 15
+Fold 2: Reduced from 1280 to 60
+Fold 2 | Top 60 features | Class-wise F1s:
+  ascent: 0.8963
+  away: 0.5882
+  descent: 0.7789
+  hover: 0.8533
+  towards: 0.6312
+  turn: 0.7213
+Number of components selected after PCA: 13
+Fold 2: Reduced from 1280 to 50
+Fold 2 | Top 50 features | Class-wise F1s:
+  ascent: 0.9237
+  away: 0.6016
+  descent: 0.7921
+  hover: 0.8571
+  towards: 0.6377
+  turn: 0.6891
+Number of components selected after PCA: 11
+Fold 2: Reduced from 1280 to 40
+Fold 2 | Top 40 features | Class-wise F1s:
+  ascent: 0.7966
+  away: 0.5923
+  descent: 0.7538
+  hover: 0.8523
+  towards: 0.6099
+  turn: 0.6087
+Number of components selected after PCA: 10
+Fold 2: Reduced from 1280 to 30
+Fold 2 | Top 30 features | Class-wise F1s:
+  ascent: 0.8066
+  away: 0.5962
+  descent: 0.7172
+  hover: 0.8070
+  towards: 0.6335
+  turn: 0.6102
+Number of components selected after PCA: 7
+Fold 2: Reduced from 1280 to 20
+Fold 2 | Top 20 features | Class-wise F1s:
+  ascent: 0.6923
+  away: 0.5376
+  descent: 0.6364
+  hover: 0.7429
+  towards: 0.5737
+  turn: 0.5424
+Number of components selected after PCA: 6
+Fold 2: Reduced from 1280 to 10
+Fold 2 | Top 10 features | Class-wise F1s:
+  ascent: 0.7930
+  away: 0.5196
+  descent: 0.6237
+  hover: 0.8173
+  towards: 0.5634
+  turn: 0.5045
+Number of components selected after PCA: 74
+Fold 3: Reduced from 1280 to 680
+Fold 3 | Top 680 features | Class-wise F1s:
+  ascent: 0.8611
+  away: 0.6996
+  descent: 0.7210
+  hover: 0.8806
+  towards: 0.5980
+  turn: 0.8319
+Number of components selected after PCA: 72
+Fold 3: Reduced from 1280 to 660
+Fold 3 | Top 660 features | Class-wise F1s:
+  ascent: 0.8651
+  away: 0.7091
+  descent: 0.7210
+  hover: 0.8753
+  towards: 0.5990
+  turn: 0.8421
+Number of components selected after PCA: 71
+Fold 3: Reduced from 1280 to 640
+Fold 3 | Top 640 features | Class-wise F1s:
+  ascent: 0.8676
+  away: 0.7123
+  descent: 0.7273
+  hover: 0.8806
+  towards: 0.5990
+  turn: 0.8319
+Number of components selected after PCA: 69
+Fold 3: Reduced from 1280 to 620
+Fold 3 | Top 620 features | Class-wise F1s:
+  ascent: 0.8716
+  away: 0.7156
+  descent: 0.7210
+  hover: 0.8806
+  towards: 0.6117
+  turn: 0.8421
+Number of components selected after PCA: 67
+Fold 3: Reduced from 1280 to 600
+Fold 3 | Top 600 features | Class-wise F1s:
+  ascent: 0.8624
+  away: 0.7123
+  descent: 0.7273
+  hover: 0.8806
+  towards: 0.6058
+  turn: 0.8319
+Number of components selected after PCA: 65
+Fold 3: Reduced from 1280 to 580
+Fold 3 | Top 580 features | Class-wise F1s:
+  ascent: 0.8519
+  away: 0.7117
+  descent: 0.7217
+  hover: 0.8813
+  towards: 0.6078
+  turn: 0.8348
+Number of components selected after PCA: 61
+Fold 3: Reduced from 1280 to 560
+Fold 3 | Top 560 features | Class-wise F1s:
+  ascent: 0.8624
+  away: 0.7207
+  descent: 0.7241
+  hover: 0.8836
+  towards: 0.6070
+  turn: 0.8348
+Number of components selected after PCA: 59
+Fold 3: Reduced from 1280 to 540
+Fold 3 | Top 540 features | Class-wise F1s:
+  ascent: 0.8402
+  away: 0.7027
+  descent: 0.7273
+  hover: 0.8693
+  towards: 0.6078
+  turn: 0.8348
+Number of components selected after PCA: 57
+Fold 3: Reduced from 1280 to 520
+Fold 3 | Top 520 features | Class-wise F1s:
+  ascent: 0.8597
+  away: 0.7085
+  descent: 0.7424
+  hover: 0.8777
+  towards: 0.6040
+  turn: 0.8348
+Number of components selected after PCA: 55
+Fold 3: Reduced from 1280 to 500
+Fold 3 | Top 500 features | Class-wise F1s:
+  ascent: 0.8636
+  away: 0.7059
+  descent: 0.7217
+  hover: 0.8836
+  towards: 0.5911
+  turn: 0.8421
+Number of components selected after PCA: 53
+Fold 3: Reduced from 1280 to 480
+Fold 3 | Top 480 features | Class-wise F1s:
+  ascent: 0.8767
+  away: 0.7143
+  descent: 0.7456
+  hover: 0.8924
+  towards: 0.6100
+  turn: 0.8421
+Number of components selected after PCA: 51
+Fold 3: Reduced from 1280 to 460
+Fold 3 | Top 460 features | Class-wise F1s:
+  ascent: 0.8636
+  away: 0.7022
+  descent: 0.7456
+  hover: 0.8865
+  towards: 0.5800
+  turn: 0.8421
+Number of components selected after PCA: 50
+Fold 3: Reduced from 1280 to 440
+Fold 3 | Top 440 features | Class-wise F1s:
+  ascent: 0.8402
+  away: 0.7117
+  descent: 0.7424
+  hover: 0.8806
+  towards: 0.5882
+  turn: 0.8348
+Number of components selected after PCA: 48
+Fold 3: Reduced from 1280 to 420
+Fold 3 | Top 420 features | Class-wise F1s:
+  ascent: 0.8493
+  away: 0.7054
+  descent: 0.7391
+  hover: 0.8806
+  towards: 0.6010
+  turn: 0.8319
+Number of components selected after PCA: 47
+Fold 3: Reduced from 1280 to 400
+Fold 3 | Top 400 features | Class-wise F1s:
+  ascent: 0.8455
+  away: 0.7248
+  descent: 0.7359
+  hover: 0.8836
+  towards: 0.6117
+  turn: 0.8319
+Number of components selected after PCA: 45
+Fold 3: Reduced from 1280 to 380
+Fold 3 | Top 380 features | Class-wise F1s:
+  ascent: 0.8649
+  away: 0.7273
+  descent: 0.7478
+  hover: 0.8777
+  towards: 0.6049
+  turn: 0.8319
+Number of components selected after PCA: 43
+Fold 3: Reduced from 1280 to 360
+Fold 3 | Top 360 features | Class-wise F1s:
+  ascent: 0.8545
+  away: 0.7281
+  descent: 0.7532
+  hover: 0.8806
+  towards: 0.6184
+  turn: 0.8596
+Number of components selected after PCA: 41
+Fold 3: Reduced from 1280 to 340
+Fold 3 | Top 340 features | Class-wise F1s:
+  ascent: 0.8636
+  away: 0.7222
+  descent: 0.7577
+  hover: 0.8901
+  towards: 0.6184
+  turn: 0.8596
+Number of components selected after PCA: 39
+Fold 3: Reduced from 1280 to 320
+Fold 3 | Top 320 features | Class-wise F1s:
+  ascent: 0.8649
+  away: 0.7290
+  descent: 0.7456
+  hover: 0.8753
+  towards: 0.6161
+  turn: 0.8596
+Number of components selected after PCA: 38
+Fold 3: Reduced from 1280 to 300
+Fold 3 | Top 300 features | Class-wise F1s:
+  ascent: 0.8727
+  away: 0.7009
+  descent: 0.7489
+  hover: 0.8901
+  towards: 0.6124
+  turn: 0.8596
+Number of components selected after PCA: 36
+Fold 3: Reduced from 1280 to 280
+Fold 3 | Top 280 features | Class-wise F1s:
+  ascent: 0.8767
+  away: 0.7404
+  descent: 0.7522
+  hover: 0.9016
+  towards: 0.6479
+  turn: 0.8596
+Number of components selected after PCA: 34
+Fold 3: Reduced from 1280 to 260
+Fold 3 | Top 260 features | Class-wise F1s:
+  ascent: 0.8789
+  away: 0.7264
+  descent: 0.7568
+  hover: 0.8848
+  towards: 0.6103
+  turn: 0.8596
+Number of components selected after PCA: 33
+Fold 3: Reduced from 1280 to 240
+Fold 3 | Top 240 features | Class-wise F1s:
+  ascent: 0.8688
+  away: 0.7103
+  descent: 0.7378
+  hover: 0.8587
+  towards: 0.6204
+  turn: 0.8522
+Number of components selected after PCA: 31
+Fold 3: Reduced from 1280 to 220
+Fold 3 | Top 220 features | Class-wise F1s:
+  ascent: 0.8800
+  away: 0.7290
+  descent: 0.7313
+  hover: 0.8587
+  towards: 0.6256
+  turn: 0.8421
+Number of components selected after PCA: 29
+Fold 3: Reduced from 1280 to 200
+Fold 3 | Top 200 features | Class-wise F1s:
+  ascent: 0.8778
+  away: 0.7163
+  descent: 0.7273
+  hover: 0.8617
+  towards: 0.6280
+  turn: 0.8448
+Number of components selected after PCA: 27
+Fold 3: Reduced from 1280 to 180
+Fold 3 | Top 180 features | Class-wise F1s:
+  ascent: 0.8624
+  away: 0.7465
+  descent: 0.7345
+  hover: 0.8789
+  towards: 0.6442
+  turn: 0.8205
+Number of components selected after PCA: 25
+Fold 3: Reduced from 1280 to 160
+Fold 3 | Top 160 features | Class-wise F1s:
+  ascent: 0.8624
+  away: 0.7177
+  descent: 0.7378
+  hover: 0.8594
+  towards: 0.6306
+  turn: 0.8348
+Number of components selected after PCA: 24
+Fold 3: Reduced from 1280 to 140
+Fold 3 | Top 140 features | Class-wise F1s:
+  ascent: 0.8807
+  away: 0.7273
+  descent: 0.7602
+  hover: 0.8714
+  towards: 0.6351
+  turn: 0.8174
+Number of components selected after PCA: 21
+Fold 3: Reduced from 1280 to 120
+Fold 3 | Top 120 features | Class-wise F1s:
+  ascent: 0.8950
+  away: 0.7615
+  descent: 0.7854
+  hover: 0.8766
+  towards: 0.6512
+  turn: 0.8246
+Number of components selected after PCA: 20
+Fold 3: Reduced from 1280 to 100
+Fold 3 | Top 100 features | Class-wise F1s:
+  ascent: 0.8716
+  away: 0.7500
+  descent: 0.8091
+  hover: 0.8624
+  towards: 0.6544
+  turn: 0.8034
+Number of components selected after PCA: 19
+Fold 3: Reduced from 1280 to 90
+Fold 3 | Top 90 features | Class-wise F1s:
+  ascent: 0.8744
+  away: 0.7570
+  descent: 0.8198
+  hover: 0.8743
+  towards: 0.6729
+  turn: 0.8235
+Number of components selected after PCA: 18
+Fold 3: Reduced from 1280 to 80
+Fold 3 | Top 80 features | Class-wise F1s:
+  ascent: 0.8692
+  away: 0.7249
+  descent: 0.8273
+  hover: 0.8773
+  towards: 0.6419
+  turn: 0.7238
+Number of components selected after PCA: 16
+Fold 3: Reduced from 1280 to 70
+Fold 3 | Top 70 features | Class-wise F1s:
+  ascent: 0.8426
+  away: 0.6894
+  descent: 0.8257
+  hover: 0.8647
+  towards: 0.6326
+  turn: 0.7429
+Number of components selected after PCA: 14
+Fold 3: Reduced from 1280 to 60
+Fold 3 | Top 60 features | Class-wise F1s:
+  ascent: 0.8451
+  away: 0.7000
+  descent: 0.8142
+  hover: 0.8496
+  towards: 0.6505
+  turn: 0.7059
+Number of components selected after PCA: 12
+Fold 3: Reduced from 1280 to 50
+Fold 3 | Top 50 features | Class-wise F1s:
+  ascent: 0.8416
+  away: 0.6900
+  descent: 0.8304
+  hover: 0.8564
+  towards: 0.6535
+  turn: 0.6200
+Number of components selected after PCA: 10
+Fold 3: Reduced from 1280 to 40
+Fold 3 | Top 40 features | Class-wise F1s:
+  ascent: 0.7539
+  away: 0.6179
+  descent: 0.7946
+  hover: 0.8499
+  towards: 0.6019
+  turn: 0.5208
+Number of components selected after PCA: 9
+Fold 3: Reduced from 1280 to 30
+Fold 3 | Top 30 features | Class-wise F1s:
+  ascent: 0.7487
+  away: 0.6000
+  descent: 0.7946
+  hover: 0.8260
+  towards: 0.5962
+  turn: 0.4894
+Number of components selected after PCA: 7
+Fold 3: Reduced from 1280 to 20
+Fold 3 | Top 20 features | Class-wise F1s:
+  ascent: 0.7027
+  away: 0.6090
+  descent: 0.6442
+  hover: 0.7232
+  towards: 0.5156
+  turn: 0.5495
+Number of components selected after PCA: 5
+Fold 3: Reduced from 1280 to 10
+Fold 3 | Top 10 features | Class-wise F1s:
+  ascent: 0.6939
+  away: 0.5811
+  descent: 0.6432
+  hover: 0.8281
+  towards: 0.5485
+  turn: 0.4471
+Number of components selected after PCA: 77
+Fold 4: Reduced from 1280 to 680
+Fold 4 | Top 680 features | Class-wise F1s:
+  ascent: 0.9061
+  away: 0.7041
+  descent: 0.8251
+  hover: 0.9389
+  towards: 0.6735
+  turn: 0.7967
+Number of components selected after PCA: 75
+Fold 4: Reduced from 1280 to 660
+Fold 4 | Top 660 features | Class-wise F1s:
+  ascent: 0.9076
+  away: 0.7191
+  descent: 0.8235
+  hover: 0.9415
+  towards: 0.6939
+  turn: 0.8033
+Number of components selected after PCA: 73
+Fold 4: Reduced from 1280 to 640
+Fold 4 | Top 640 features | Class-wise F1s:
+  ascent: 0.9157
+  away: 0.7094
+  descent: 0.8304
+  hover: 0.9441
+  towards: 0.6837
+  turn: 0.8033
+Number of components selected after PCA: 71
+Fold 4: Reduced from 1280 to 620
+Fold 4 | Top 620 features | Class-wise F1s:
+  ascent: 0.9076
+  away: 0.7045
+  descent: 0.8178
+  hover: 0.9415
+  towards: 0.6837
+  turn: 0.8099
+Number of components selected after PCA: 69
+Fold 4: Reduced from 1280 to 600
+Fold 4 | Top 600 features | Class-wise F1s:
+  ascent: 0.9076
+  away: 0.7239
+  descent: 0.8364
+  hover: 0.9415
+  towards: 0.6802
+  turn: 0.8099
+Number of components selected after PCA: 67
+Fold 4: Reduced from 1280 to 580
+Fold 4 | Top 580 features | Class-wise F1s:
+  ascent: 0.9040
+  away: 0.7341
+  descent: 0.8349
+  hover: 0.9444
+  towards: 0.6970
+  turn: 0.8099
+Number of components selected after PCA: 63
+Fold 4: Reduced from 1280 to 560
+Fold 4 | Top 560 features | Class-wise F1s:
+  ascent: 0.9069
+  away: 0.7388
+  descent: 0.8311
+  hover: 0.9444
+  towards: 0.7041
+  turn: 0.8226
+Number of components selected after PCA: 62
+Fold 4: Reduced from 1280 to 540
+Fold 4 | Top 540 features | Class-wise F1s:
+  ascent: 0.9143
+  away: 0.7416
+  descent: 0.8311
+  hover: 0.9418
+  towards: 0.7071
+  turn: 0.8226
+Number of components selected after PCA: 60
+Fold 4: Reduced from 1280 to 520
+Fold 4 | Top 520 features | Class-wise F1s:
+  ascent: 0.9262
+  away: 0.7416
+  descent: 0.8349
+  hover: 0.9392
+  towards: 0.7035
+  turn: 0.8226
+Number of components selected after PCA: 58
+Fold 4: Reduced from 1280 to 500
+Fold 4 | Top 500 features | Class-wise F1s:
+  ascent: 0.9268
+  away: 0.7341
+  descent: 0.8295
+  hover: 0.9418
+  towards: 0.7000
+  turn: 0.8293
+Number of components selected after PCA: 56
+Fold 4: Reduced from 1280 to 480
+Fold 4 | Top 480 features | Class-wise F1s:
+  ascent: 0.9274
+  away: 0.7424
+  descent: 0.8349
+  hover: 0.9448
+  towards: 0.7136
+  turn: 0.8293
+Number of components selected after PCA: 54
+Fold 4: Reduced from 1280 to 460
+Fold 4 | Top 460 features | Class-wise F1s:
+  ascent: 0.9194
+  away: 0.7462
+  descent: 0.8349
+  hover: 0.9448
+  towards: 0.7129
+  turn: 0.8226
+Number of components selected after PCA: 51
+Fold 4: Reduced from 1280 to 440
+Fold 4 | Top 440 features | Class-wise F1s:
+  ascent: 0.9274
+  away: 0.7388
+  descent: 0.8558
+  hover: 0.9477
+  towards: 0.7041
+  turn: 0.8226
+Number of components selected after PCA: 50
+Fold 4: Reduced from 1280 to 420
+Fold 4 | Top 420 features | Class-wise F1s:
+  ascent: 0.9317
+  away: 0.7472
+  descent: 0.8519
+  hover: 0.9503
+  towards: 0.7136
+  turn: 0.8293
+Number of components selected after PCA: 48
+Fold 4: Reduced from 1280 to 400
+Fold 4 | Top 400 features | Class-wise F1s:
+  ascent: 0.9317
+  away: 0.7385
+  descent: 0.8372
+  hover: 0.9425
+  towards: 0.7327
+  turn: 0.8293
+Number of components selected after PCA: 46
+Fold 4: Reduced from 1280 to 380
+Fold 4 | Top 380 features | Class-wise F1s:
+  ascent: 0.9274
+  away: 0.7385
+  descent: 0.8372
+  hover: 0.9399
+  towards: 0.7327
+  turn: 0.8130
+Number of components selected after PCA: 44
+Fold 4: Reduced from 1280 to 360
+Fold 4 | Top 360 features | Class-wise F1s:
+  ascent: 0.9187
+  away: 0.7442
+  descent: 0.8558
+  hover: 0.9454
+  towards: 0.7291
+  turn: 0.8095
+Number of components selected after PCA: 41
+Fold 4: Reduced from 1280 to 340
+Fold 4 | Top 340 features | Class-wise F1s:
+  ascent: 0.9237
+  away: 0.7549
+  descent: 0.8545
+  hover: 0.9268
+  towards: 0.7030
+  turn: 0.8065
+Number of components selected after PCA: 40
+Fold 4: Reduced from 1280 to 320
+Fold 4 | Top 320 features | Class-wise F1s:
+  ascent: 0.9200
+  away: 0.7393
+  descent: 0.8679
+  hover: 0.9268
+  towards: 0.6766
+  turn: 0.8160
+Number of components selected after PCA: 39
+Fold 4: Reduced from 1280 to 300
+Fold 4 | Top 300 features | Class-wise F1s:
+  ascent: 0.9237
+  away: 0.7402
+  descent: 0.8732
+  hover: 0.9377
+  towards: 0.6961
+  turn: 0.8160
+Number of components selected after PCA: 37
+Fold 4: Reduced from 1280 to 280
+Fold 4 | Top 280 features | Class-wise F1s:
+  ascent: 0.9200
+  away: 0.7352
+  descent: 0.8679
+  hover: 0.9351
+  towards: 0.7024
+  turn: 0.8226
+Number of components selected after PCA: 35
+Fold 4: Reduced from 1280 to 260
+Fold 4 | Top 260 features | Class-wise F1s:
+  ascent: 0.9317
+  away: 0.7323
+  descent: 0.8598
+  hover: 0.9218
+  towards: 0.7164
+  turn: 0.8320
+Number of components selected after PCA: 33
+Fold 4: Reduced from 1280 to 240
+Fold 4 | Top 240 features | Class-wise F1s:
+  ascent: 0.9012
+  away: 0.7302
+  descent: 0.8517
+  hover: 0.9247
+  towards: 0.7164
+  turn: 0.8189
+Number of components selected after PCA: 32
+Fold 4: Reduced from 1280 to 220
+Fold 4 | Top 220 features | Class-wise F1s:
+  ascent: 0.9120
+  away: 0.7352
+  descent: 0.8667
+  hover: 0.9223
+  towards: 0.7164
+  turn: 0.8189
+Number of components selected after PCA: 30
+Fold 4: Reduced from 1280 to 200
+Fold 4 | Top 200 features | Class-wise F1s:
+  ascent: 0.8924
+  away: 0.7352
+  descent: 0.8571
+  hover: 0.9351
+  towards: 0.7122
+  turn: 0.8000
+Number of components selected after PCA: 27
+Fold 4: Reduced from 1280 to 180
+Fold 4 | Top 180 features | Class-wise F1s:
+  ascent: 0.9224
+  away: 0.7570
+  descent: 0.8667
+  hover: 0.9247
+  towards: 0.7048
+  turn: 0.8254
+Number of components selected after PCA: 25
+Fold 4: Reduced from 1280 to 160
+Fold 4 | Top 160 features | Class-wise F1s:
+  ascent: 0.9218
+  away: 0.7619
+  descent: 0.8571
+  hover: 0.9272
+  towards: 0.7075
+  turn: 0.8413
+Number of components selected after PCA: 24
+Fold 4: Reduced from 1280 to 140
+Fold 4 | Top 140 features | Class-wise F1s:
+  ascent: 0.9174
+  away: 0.7561
+  descent: 0.8479
+  hover: 0.9218
+  towards: 0.7042
+  turn: 0.8320
+Number of components selected after PCA: 21
+Fold 4: Reduced from 1280 to 120
+Fold 4 | Top 120 features | Class-wise F1s:
+  ascent: 0.9160
+  away: 0.7229
+  descent: 0.8493
+  hover: 0.9290
+  towards: 0.7037
+  turn: 0.8095
+Number of components selected after PCA: 20
+Fold 4: Reduced from 1280 to 100
+Fold 4 | Top 100 features | Class-wise F1s:
+  ascent: 0.9256
+  away: 0.7390
+  descent: 0.8571
+  hover: 0.9214
+  towards: 0.7358
+  turn: 0.8000
+Number of components selected after PCA: 19
+Fold 4: Reduced from 1280 to 90
+Fold 4 | Top 90 features | Class-wise F1s:
+  ascent: 0.9205
+  away: 0.7510
+  descent: 0.8585
+  hover: 0.9164
+  towards: 0.7230
+  turn: 0.7937
+Number of components selected after PCA: 18
+Fold 4: Reduced from 1280 to 80
+Fold 4 | Top 80 features | Class-wise F1s:
+  ascent: 0.8548
+  away: 0.6848
+  descent: 0.8465
+  hover: 0.9057
+  towards: 0.7156
+  turn: 0.6964
+Number of components selected after PCA: 16
+Fold 4: Reduced from 1280 to 70
+Fold 4 | Top 70 features | Class-wise F1s:
+  ascent: 0.8525
+  away: 0.6844
+  descent: 0.8396
+  hover: 0.8895
+  towards: 0.6847
+  turn: 0.7027
+Number of components selected after PCA: 14
+Fold 4: Reduced from 1280 to 60
+Fold 4 | Top 60 features | Class-wise F1s:
+  ascent: 0.8678
+  away: 0.6641
+  descent: 0.8219
+  hover: 0.8975
+  towards: 0.6847
+  turn: 0.7027
+Number of components selected after PCA: 12
+Fold 4: Reduced from 1280 to 50
+Fold 4 | Top 50 features | Class-wise F1s:
+  ascent: 0.8571
+  away: 0.7120
+  descent: 0.8402
+  hover: 0.9071
+  towards: 0.7064
+  turn: 0.6207
+Number of components selected after PCA: 10
+Fold 4: Reduced from 1280 to 40
+Fold 4 | Top 40 features | Class-wise F1s:
+  ascent: 0.7838
+  away: 0.6210
+  descent: 0.8056
+  hover: 0.9003
+  towards: 0.6446
+  turn: 0.5913
+Number of components selected after PCA: 9
+Fold 4: Reduced from 1280 to 30
+Fold 4 | Top 30 features | Class-wise F1s:
+  ascent: 0.7946
+  away: 0.6230
+  descent: 0.8364
+  hover: 0.8806
+  towards: 0.6325
+  turn: 0.5565
+Number of components selected after PCA: 7
+Fold 4: Reduced from 1280 to 20
+Fold 4 | Top 20 features | Class-wise F1s:
+  ascent: 0.7545
+  away: 0.6591
+  descent: 0.7429
+  hover: 0.8541
+  towards: 0.6266
+  turn: 0.5983
+Number of components selected after PCA: 5
+Fold 4: Reduced from 1280 to 10
+Fold 4 | Top 10 features | Class-wise F1s:
+  ascent: 0.7232
+  away: 0.6077
+  descent: 0.6699
+  hover: 0.8312
+  towards: 0.6126
+  turn: 0.5470
+Number of components selected after PCA: 80
+Fold 5: Reduced from 1280 to 680
+Fold 5 | Top 680 features | Class-wise F1s:
+  ascent: 0.8444
+  away: 0.6806
+  descent: 0.8311
+  hover: 0.9194
+  towards: 0.6204
+  turn: 0.7642
+Number of components selected after PCA: 78
+Fold 5: Reduced from 1280 to 660
+Fold 5 | Top 660 features | Class-wise F1s:
+  ascent: 0.8407
+  away: 0.6702
+  descent: 0.8273
+  hover: 0.9140
+  towards: 0.6075
+  turn: 0.7642
+Number of components selected after PCA: 75
+Fold 5: Reduced from 1280 to 640
+Fold 5 | Top 640 features | Class-wise F1s:
+  ascent: 0.8407
+  away: 0.6772
+  descent: 0.8161
+  hover: 0.9140
+  towards: 0.6103
+  turn: 0.7642
+Number of components selected after PCA: 74
+Fold 5: Reduced from 1280 to 620
+Fold 5 | Top 620 features | Class-wise F1s:
+  ascent: 0.8496
+  away: 0.6524
+  descent: 0.8161
+  hover: 0.9096
+  towards: 0.6038
+  turn: 0.7705
+Number of components selected after PCA: 71
+Fold 5: Reduced from 1280 to 600
+Fold 5 | Top 600 features | Class-wise F1s:
+  ascent: 0.8533
+  away: 0.6702
+  descent: 0.8178
+  hover: 0.9115
+  towards: 0.6075
+  turn: 0.7769
+Number of components selected after PCA: 69
+Fold 5: Reduced from 1280 to 580
+Fold 5 | Top 580 features | Class-wise F1s:
+  ascent: 0.8584
+  away: 0.6702
+  descent: 0.8161
+  hover: 0.9144
+  towards: 0.6103
+  turn: 0.7705
+Number of components selected after PCA: 65
+Fold 5: Reduced from 1280 to 560
+Fold 5 | Top 560 features | Class-wise F1s:
+  ascent: 0.8496
+  away: 0.6738
+  descent: 0.8198
+  hover: 0.9149
+  towards: 0.6204
+  turn: 0.8067
+Number of components selected after PCA: 63
+Fold 5: Reduced from 1280 to 540
+Fold 5 | Top 540 features | Class-wise F1s:
+  ascent: 0.8458
+  away: 0.6702
+  descent: 0.8161
+  hover: 0.9086
+  towards: 0.6111
+  turn: 0.8000
+Number of components selected after PCA: 60
+Fold 5: Reduced from 1280 to 520
+Fold 5 | Top 520 features | Class-wise F1s:
+  ascent: 0.8472
+  away: 0.6667
+  descent: 0.8145
+  hover: 0.9037
+  towards: 0.6233
+  turn: 0.7966
+Number of components selected after PCA: 58
+Fold 5: Reduced from 1280 to 500
+Fold 5 | Top 500 features | Class-wise F1s:
+  ascent: 0.8435
+  away: 0.6631
+  descent: 0.8108
+  hover: 0.9086
+  towards: 0.6204
+  turn: 0.8067
+Number of components selected after PCA: 55
+Fold 5: Reduced from 1280 to 480
+Fold 5 | Top 480 features | Class-wise F1s:
+  ascent: 0.8319
+  away: 0.6667
+  descent: 0.8108
+  hover: 0.9062
+  towards: 0.6267
+  turn: 0.7899
+Number of components selected after PCA: 53
+Fold 5: Reduced from 1280 to 460
+Fold 5 | Top 460 features | Class-wise F1s:
+  ascent: 0.8393
+  away: 0.6703
+  descent: 0.8145
+  hover: 0.9048
+  towards: 0.6239
+  turn: 0.8000
+Number of components selected after PCA: 51
+Fold 5: Reduced from 1280 to 440
+Fold 5 | Top 440 features | Class-wise F1s:
+  ascent: 0.8407
+  away: 0.6484
+  descent: 0.8326
+  hover: 0.9120
+  towards: 0.6306
+  turn: 0.8000
+Number of components selected after PCA: 49
+Fold 5: Reduced from 1280 to 420
+Fold 5 | Top 420 features | Class-wise F1s:
+  ascent: 0.8407
+  away: 0.6413
+  descent: 0.8235
+  hover: 0.9072
+  towards: 0.6301
+  turn: 0.7899
+Number of components selected after PCA: 48
+Fold 5: Reduced from 1280 to 400
+Fold 5 | Top 400 features | Class-wise F1s:
+  ascent: 0.8407
+  away: 0.6484
+  descent: 0.8288
+  hover: 0.9096
+  towards: 0.6335
+  turn: 0.7899
+Number of components selected after PCA: 46
+Fold 5: Reduced from 1280 to 380
+Fold 5 | Top 380 features | Class-wise F1s:
+  ascent: 0.8482
+  away: 0.6339
+  descent: 0.8288
+  hover: 0.9096
+  towards: 0.6306
+  turn: 0.7899
+Number of components selected after PCA: 43
+Fold 5: Reduced from 1280 to 360
+Fold 5 | Top 360 features | Class-wise F1s:
+  ascent: 0.8444
+  away: 0.6595
+  descent: 0.8251
+  hover: 0.9096
+  towards: 0.6239
+  turn: 0.7899
+Number of components selected after PCA: 42
+Fold 5: Reduced from 1280 to 340
+Fold 5 | Top 340 features | Class-wise F1s:
+  ascent: 0.8661
+  away: 0.6522
+  descent: 0.8235
+  hover: 0.9101
+  towards: 0.6425
+  turn: 0.7966
+Number of components selected after PCA: 41
+Fold 5: Reduced from 1280 to 320
+Fold 5 | Top 320 features | Class-wise F1s:
+  ascent: 0.8661
+  away: 0.6486
+  descent: 0.8178
+  hover: 0.9091
+  towards: 0.6484
+  turn: 0.8067
+Number of components selected after PCA: 40
+Fold 5: Reduced from 1280 to 300
+Fold 5 | Top 300 features | Class-wise F1s:
+  ascent: 0.8661
+  away: 0.6486
+  descent: 0.8378
+  hover: 0.9037
+  towards: 0.6457
+  turn: 0.8136
+Number of components selected after PCA: 38
+Fold 5: Reduced from 1280 to 280
+Fold 5 | Top 280 features | Class-wise F1s:
+  ascent: 0.8661
+  away: 0.6243
+  descent: 0.8198
+  hover: 0.9067
+  towards: 0.6422
+  turn: 0.8136
+Number of components selected after PCA: 36
+Fold 5: Reduced from 1280 to 260
+Fold 5 | Top 260 features | Class-wise F1s:
+  ascent: 0.8818
+  away: 0.6349
+  descent: 0.8326
+  hover: 0.9096
+  towards: 0.6727
+  turn: 0.8167
+Number of components selected after PCA: 34
+Fold 5: Reduced from 1280 to 240
+Fold 5 | Top 240 features | Class-wise F1s:
+  ascent: 0.8858
+  away: 0.6492
+  descent: 0.8288
+  hover: 0.9169
+  towards: 0.6667
+  turn: 0.8235
+Number of components selected after PCA: 33
+Fold 5: Reduced from 1280 to 220
+Fold 5 | Top 220 features | Class-wise F1s:
+  ascent: 0.8869
+  away: 0.6667
+  descent: 0.8251
+  hover: 0.9173
+  towards: 0.6637
+  turn: 0.8305
+Number of components selected after PCA: 31
+Fold 5: Reduced from 1280 to 200
+Fold 5 | Top 200 features | Class-wise F1s:
+  ascent: 0.8818
+  away: 0.6561
+  descent: 0.8364
+  hover: 0.9140
+  towards: 0.6607
+  turn: 0.8264
+Number of components selected after PCA: 28
+Fold 5: Reduced from 1280 to 180
+Fold 5 | Top 180 features | Class-wise F1s:
+  ascent: 0.8692
+  away: 0.6632
+  descent: 0.8251
+  hover: 0.9218
+  towards: 0.6396
+  turn: 0.8130
+Number of components selected after PCA: 26
+Fold 5: Reduced from 1280 to 160
+Fold 5 | Top 160 features | Class-wise F1s:
+  ascent: 0.8858
+  away: 0.6736
+  descent: 0.8364
+  hover: 0.9081
+  towards: 0.6667
+  turn: 0.8235
+Number of components selected after PCA: 24
+Fold 5: Reduced from 1280 to 140
+Fold 5 | Top 140 features | Class-wise F1s:
+  ascent: 0.8688
+  away: 0.6559
+  descent: 0.8214
+  hover: 0.9057
+  towards: 0.6518
+  turn: 0.8000
+Number of components selected after PCA: 22
+Fold 5: Reduced from 1280 to 120
+Fold 5 | Top 120 features | Class-wise F1s:
+  ascent: 0.8879
+  away: 0.6316
+  descent: 0.8251
+  hover: 0.9041
+  towards: 0.6311
+  turn: 0.8333
+Number of components selected after PCA: 20
+Fold 5: Reduced from 1280 to 100
+Fold 5 | Top 100 features | Class-wise F1s:
+  ascent: 0.8673
+  away: 0.6667
+  descent: 0.8257
+  hover: 0.8920
+  towards: 0.6516
+  turn: 0.7899
+Number of components selected after PCA: 19
+Fold 5: Reduced from 1280 to 90
+Fold 5 | Top 90 features | Class-wise F1s:
+  ascent: 0.8533
+  away: 0.6533
+  descent: 0.8279
+  hover: 0.8877
+  towards: 0.6577
+  turn: 0.7667
+Number of components selected after PCA: 18
+Fold 5: Reduced from 1280 to 80
+Fold 5 | Top 80 features | Class-wise F1s:
+  ascent: 0.8356
+  away: 0.6146
+  descent: 0.8364
+  hover: 0.8815
+  towards: 0.5991
+  turn: 0.6226
+Number of components selected after PCA: 16
+Fold 5: Reduced from 1280 to 70
+Fold 5 | Top 70 features | Class-wise F1s:
+  ascent: 0.8378
+  away: 0.6169
+  descent: 0.8479
+  hover: 0.8603
+  towards: 0.6034
+  turn: 0.6789
+Number of components selected after PCA: 14
+Fold 5: Reduced from 1280 to 60
+Fold 5 | Top 60 features | Class-wise F1s:
+  ascent: 0.8182
+  away: 0.6197
+  descent: 0.7945
+  hover: 0.8712
+  towards: 0.5973
+  turn: 0.7037
+Number of components selected after PCA: 13
+Fold 5: Reduced from 1280 to 50
+Fold 5 | Top 50 features | Class-wise F1s:
+  ascent: 0.8251
+  away: 0.6294
+  descent: 0.8241
+  hover: 0.8301
+  towards: 0.6134
+  turn: 0.7080
+Number of components selected after PCA: 10
+Fold 5: Reduced from 1280 to 40
+Fold 5 | Top 40 features | Class-wise F1s:
+  ascent: 0.6952
+  away: 0.5622
+  descent: 0.7963
+  hover: 0.8453
+  towards: 0.5738
+  turn: 0.5577
+Number of components selected after PCA: 9
+Fold 5: Reduced from 1280 to 30
+Fold 5 | Top 30 features | Class-wise F1s:
+  ascent: 0.6765
+  away: 0.5411
+  descent: 0.7763
+  hover: 0.8464
+  towards: 0.5690
+  turn: 0.5472
+Number of components selected after PCA: 7
+Fold 5: Reduced from 1280 to 20
+Fold 5 | Top 20 features | Class-wise F1s:
+  ascent: 0.6667
+  away: 0.4779
+  descent: 0.6629
+  hover: 0.8085
+  towards: 0.5350
+  turn: 0.5192
+Number of components selected after PCA: 5
+Fold 5: Reduced from 1280 to 10
+Fold 5 | Top 10 features | Class-wise F1s:
+  ascent: 0.6699
+  away: 0.4444
+  descent: 0.5943
+  hover: 0.8177
+  towards: 0.5020
+  turn: 0.4742
+Best number of features for dwt svm rbf: 90
+Top 15 most important clf features (globally): 
+1) Q1_detail_3_iqr
+2) Q1_detail_2_iqr
+3) Q1_detail_1_std
+4) Q1_detail_1_iqr
+5) Q1_detail_1_std_delta
+6) Q1_detail_1_std_delta2
+7) Q4_detail_3_min
+8) Q4_detail_3_iqr
+9) Q4_detail_3_std_delta2
+10) Q4_detail_2_iqr
+11) Q4_detail_2_autocorr_std
+12) Q4_detail_1_iqr
+13) FULL_detail_3_iqr
+14) FULL_detail_2_zcr
+15) FULL_detail_1_zcr
+Number of components selected after PCA: 20
+Fold 1- Best F1-scores for class ascent: 0.9163
+Fold 1- Best F1-scores for class away: 0.7570
+Fold 1- Best F1-scores for class descent: 0.8557
+Fold 1- Best F1-scores for class hover: 0.9195
+Fold 1- Best F1-scores for class towards: 0.7679
+Fold 1- Best F1-scores for class turn: 0.8028
+Number of components selected after PCA: 20
+Fold 2- Best F1-scores for class ascent: 0.9084
+Fold 2- Best F1-scores for class away: 0.5938
+Fold 2- Best F1-scores for class descent: 0.7760
+Fold 2- Best F1-scores for class hover: 0.8456
+Fold 2- Best F1-scores for class towards: 0.6667
+Fold 2- Best F1-scores for class turn: 0.8485
+Number of components selected after PCA: 19
+Fold 3- Best F1-scores for class ascent: 0.8744
+Fold 3- Best F1-scores for class away: 0.7570
+Fold 3- Best F1-scores for class descent: 0.8198
+Fold 3- Best F1-scores for class hover: 0.8743
+Fold 3- Best F1-scores for class towards: 0.6729
+Fold 3- Best F1-scores for class turn: 0.8235
+Number of components selected after PCA: 19
+Fold 4- Best F1-scores for class ascent: 0.9205
+Fold 4- Best F1-scores for class away: 0.7510
+Fold 4- Best F1-scores for class descent: 0.8585
+Fold 4- Best F1-scores for class hover: 0.9164
+Fold 4- Best F1-scores for class towards: 0.7230
+Fold 4- Best F1-scores for class turn: 0.7937
+Number of components selected after PCA: 19
+Fold 5- Best F1-scores for class ascent: 0.8533
+Fold 5- Best F1-scores for class away: 0.6533
+Fold 5- Best F1-scores for class descent: 0.8279
+Fold 5- Best F1-scores for class hover: 0.8877
+Fold 5- Best F1-scores for class towards: 0.6577
+Fold 5- Best F1-scores for class turn: 0.7667

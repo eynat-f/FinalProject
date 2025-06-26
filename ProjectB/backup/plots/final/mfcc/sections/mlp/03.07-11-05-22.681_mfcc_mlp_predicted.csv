@@ -1,0 +1,6 @@
+x_axis,z_axis,time,task_name
+0.0,0.5,4.0,ascent
+-1.0,0.5,10.0,away
+-1.0,0.5,13.5,turn
+0.0,0.5,19.5,towards
+-1.0,0.5,22.5,away

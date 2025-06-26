@@ -1,0 +1,14 @@
+For sample towards:
+Class ascent: prob = 12.00%
+Class away: prob = 29.00%
+Class descent: prob = 15.00%
+Class hover: prob = -0.00%
+Class towards: prob = 27.00%
+Class turn: prob = 17.00%
+For sample away:
+Class ascent: prob = 12.00%
+Class away: prob = 37.00%
+Class descent: prob = 4.00%
+Class hover: prob = 0.00%
+Class towards: prob = 39.00%
+Class turn: prob = 8.00%

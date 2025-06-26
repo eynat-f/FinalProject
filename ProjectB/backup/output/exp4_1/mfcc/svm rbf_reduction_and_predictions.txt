@@ -1,0 +1,1340 @@
+Fold 1: Number of components selected: 91
+Fold 1: Reduced from 3175 to 738
+Fold 1 | Top 738 features | Class-wise F1s:
+  ascent: 0.9741
+  away: 0.8017
+  descent: 0.8922
+  hover: 0.9796
+  towards: 0.7816
+  turn: 0.9130
+Fold 1: Number of components selected: 87
+Fold 1: Reduced from 3175 to 718
+Fold 1 | Top 718 features | Class-wise F1s:
+  ascent: 0.9784
+  away: 0.7915
+  descent: 0.9064
+  hover: 0.9677
+  towards: 0.7752
+  turn: 0.9051
+Fold 1: Number of components selected: 85
+Fold 1: Reduced from 3175 to 698
+Fold 1 | Top 698 features | Class-wise F1s:
+  ascent: 0.9784
+  away: 0.7983
+  descent: 0.8911
+  hover: 0.9717
+  towards: 0.7704
+  turn: 0.9051
+Fold 1: Number of components selected: 82
+Fold 1: Reduced from 3175 to 678
+Fold 1 | Top 678 features | Class-wise F1s:
+  ascent: 0.9826
+  away: 0.7983
+  descent: 0.8966
+  hover: 0.9756
+  towards: 0.7739
+  turn: 0.8921
+Fold 1: Number of components selected: 80
+Fold 1: Reduced from 3175 to 658
+Fold 1 | Top 658 features | Class-wise F1s:
+  ascent: 0.9826
+  away: 0.7983
+  descent: 0.8976
+  hover: 0.9756
+  towards: 0.7799
+  turn: 0.8921
+Fold 1: Number of components selected: 78
+Fold 1: Reduced from 3175 to 638
+Fold 1 | Top 638 features | Class-wise F1s:
+  ascent: 0.9741
+  away: 0.7899
+  descent: 0.9055
+  hover: 0.9717
+  towards: 0.7812
+  turn: 0.8986
+Fold 1: Number of components selected: 73
+Fold 1: Reduced from 3175 to 618
+Fold 1 | Top 618 features | Class-wise F1s:
+  ascent: 0.9741
+  away: 0.8000
+  descent: 0.9064
+  hover: 0.9717
+  towards: 0.7812
+  turn: 0.9065
+Fold 1: Number of components selected: 71
+Fold 1: Reduced from 3175 to 598
+Fold 1 | Top 598 features | Class-wise F1s:
+  ascent: 0.9700
+  away: 0.8033
+  descent: 0.8922
+  hover: 0.9756
+  towards: 0.7888
+  turn: 0.9065
+Fold 1: Number of components selected: 69
+Fold 1: Reduced from 3175 to 578
+Fold 1 | Top 578 features | Class-wise F1s:
+  ascent: 0.9739
+  away: 0.8103
+  descent: 0.8922
+  hover: 0.9717
+  towards: 0.7939
+  turn: 0.8905
+Fold 1: Number of components selected: 67
+Fold 1: Reduced from 3175 to 558
+Fold 1 | Top 558 features | Class-wise F1s:
+  ascent: 0.9655
+  away: 0.8000
+  descent: 0.9010
+  hover: 0.9756
+  towards: 0.7876
+  turn: 0.8986
+Fold 1: Number of components selected: 65
+Fold 1: Reduced from 3175 to 538
+Fold 1 | Top 538 features | Class-wise F1s:
+  ascent: 0.9697
+  away: 0.7950
+  descent: 0.9010
+  hover: 0.9717
+  towards: 0.7795
+  turn: 0.8921
+Fold 1: Number of components selected: 63
+Fold 1: Reduced from 3175 to 518
+Fold 1 | Top 518 features | Class-wise F1s:
+  ascent: 0.9700
+  away: 0.7837
+  descent: 0.8756
+  hover: 0.9836
+  towards: 0.7550
+  turn: 0.8857
+Fold 1: Number of components selected: 58
+Fold 1: Reduced from 3175 to 498
+Fold 1 | Top 498 features | Class-wise F1s:
+  ascent: 0.9741
+  away: 0.7572
+  descent: 0.8955
+  hover: 0.9796
+  towards: 0.7559
+  turn: 0.8905
+Fold 1: Number of components selected: 56
+Fold 1: Reduced from 3175 to 478
+Fold 1 | Top 478 features | Class-wise F1s:
+  ascent: 0.9741
+  away: 0.7438
+  descent: 0.8922
+  hover: 0.9836
+  towards: 0.7510
+  turn: 0.8905
+Fold 1: Number of components selected: 52
+Fold 1: Reduced from 3175 to 458
+Fold 1 | Top 458 features | Class-wise F1s:
+  ascent: 0.9741
+  away: 0.7583
+  descent: 0.8900
+  hover: 0.9796
+  towards: 0.7722
+  turn: 0.8971
+Fold 1: Number of components selected: 49
+Fold 1: Reduced from 3175 to 438
+Fold 1 | Top 438 features | Class-wise F1s:
+  ascent: 0.9741
+  away: 0.7615
+  descent: 0.8768
+  hover: 0.9836
+  towards: 0.7938
+  turn: 0.8905
+Fold 1: Number of components selected: 46
+Fold 1: Reduced from 3175 to 418
+Fold 1 | Top 418 features | Class-wise F1s:
+  ascent: 0.9697
+  away: 0.7869
+  descent: 0.8867
+  hover: 0.9796
+  towards: 0.7968
+  turn: 0.8986
+Fold 1: Number of components selected: 45
+Fold 1: Reduced from 3175 to 398
+Fold 1 | Top 398 features | Class-wise F1s:
+  ascent: 0.9697
+  away: 0.8067
+  descent: 0.9029
+  hover: 0.9836
+  towards: 0.8235
+  turn: 0.8986
+Fold 1: Number of components selected: 44
+Fold 1: Reduced from 3175 to 378
+Fold 1 | Top 378 features | Class-wise F1s:
+  ascent: 0.9784
+  away: 0.7750
+  descent: 0.8955
+  hover: 0.9796
+  towards: 0.7860
+  turn: 0.8986
+Fold 1: Number of components selected: 40
+Fold 1: Reduced from 3175 to 358
+Fold 1 | Top 358 features | Class-wise F1s:
+  ascent: 0.9697
+  away: 0.7686
+  descent: 0.9045
+  hover: 0.9877
+  towards: 0.7799
+  turn: 0.8986
+Fold 1: Number of components selected: 37
+Fold 1: Reduced from 3175 to 338
+Fold 1 | Top 338 features | Class-wise F1s:
+  ascent: 0.9694
+  away: 0.7595
+  descent: 0.8844
+  hover: 0.9796
+  towards: 0.7895
+  turn: 0.8971
+Fold 1: Number of components selected: 34
+Fold 1: Reduced from 3175 to 318
+Fold 1 | Top 318 features | Class-wise F1s:
+  ascent: 0.9561
+  away: 0.7801
+  descent: 0.8966
+  hover: 0.9639
+  towards: 0.7922
+  turn: 0.8971
+Fold 1: Number of components selected: 32
+Fold 1: Reduced from 3175 to 298
+Fold 1 | Top 298 features | Class-wise F1s:
+  ascent: 0.9737
+  away: 0.7448
+  descent: 0.8911
+  hover: 0.9717
+  towards: 0.7722
+  turn: 0.8905
+Fold 1: Number of components selected: 30
+Fold 1: Reduced from 3175 to 278
+Fold 1 | Top 278 features | Class-wise F1s:
+  ascent: 0.9737
+  away: 0.7760
+  descent: 0.8955
+  hover: 0.9756
+  towards: 0.7920
+  turn: 0.8905
+Fold 1: Number of components selected: 27
+Fold 1: Reduced from 3175 to 258
+Fold 1 | Top 258 features | Class-wise F1s:
+  ascent: 0.9607
+  away: 0.7552
+  descent: 0.8768
+  hover: 0.9600
+  towards: 0.7747
+  turn: 0.8824
+Fold 1: Number of components selected: 25
+Fold 1: Reduced from 3175 to 238
+Fold 1 | Top 238 features | Class-wise F1s:
+  ascent: 0.9478
+  away: 0.7273
+  descent: 0.8725
+  hover: 0.9562
+  towards: 0.7795
+  turn: 0.8550
+Fold 1: Number of components selected: 24
+Fold 1: Reduced from 3175 to 218
+Fold 1 | Top 218 features | Class-wise F1s:
+  ascent: 0.8947
+  away: 0.6996
+  descent: 0.8529
+  hover: 0.9449
+  towards: 0.7339
+  turn: 0.8148
+Best number of features for fold 1: 398
+F1-scores for class ascent: 0.9697
+F1-scores for class away: 0.8067
+F1-scores for class descent: 0.9029
+F1-scores for class hover: 0.9836
+F1-scores for class towards: 0.8235
+F1-scores for class turn: 0.8986
+Fold 2: Number of components selected: 88
+Fold 2: Reduced from 3175 to 762
+Fold 2 | Top 762 features | Class-wise F1s:
+  ascent: 0.9669
+  away: 0.7124
+  descent: 0.8955
+  hover: 0.9346
+  towards: 0.7416
+  turn: 0.8794
+Fold 2: Number of components selected: 87
+Fold 2: Reduced from 3175 to 742
+Fold 2 | Top 742 features | Class-wise F1s:
+  ascent: 0.9669
+  away: 0.7162
+  descent: 0.9055
+  hover: 0.9381
+  towards: 0.7481
+  turn: 0.8794
+Fold 2: Number of components selected: 85
+Fold 2: Reduced from 3175 to 722
+Fold 2 | Top 722 features | Class-wise F1s:
+  ascent: 0.9630
+  away: 0.7105
+  descent: 0.8911
+  hover: 0.9381
+  towards: 0.7463
+  turn: 0.8732
+Fold 2: Number of components selected: 83
+Fold 2: Reduced from 3175 to 702
+Fold 2 | Top 702 features | Class-wise F1s:
+  ascent: 0.9669
+  away: 0.7074
+  descent: 0.9055
+  hover: 0.9377
+  towards: 0.7407
+  turn: 0.8671
+Fold 2: Number of components selected: 81
+Fold 2: Reduced from 3175 to 682
+Fold 2 | Top 682 features | Class-wise F1s:
+  ascent: 0.9672
+  away: 0.6897
+  descent: 0.8955
+  hover: 0.9281
+  towards: 0.7170
+  turn: 0.8732
+Fold 2: Number of components selected: 80
+Fold 2: Reduced from 3175 to 662
+Fold 2 | Top 662 features | Class-wise F1s:
+  ascent: 0.9633
+  away: 0.6926
+  descent: 0.9055
+  hover: 0.9251
+  towards: 0.7045
+  turn: 0.8873
+Fold 2: Number of components selected: 77
+Fold 2: Reduced from 3175 to 642
+Fold 2 | Top 642 features | Class-wise F1s:
+  ascent: 0.9712
+  away: 0.7013
+  descent: 0.9055
+  hover: 0.9281
+  towards: 0.7015
+  turn: 0.8794
+Fold 2: Number of components selected: 75
+Fold 2: Reduced from 3175 to 622
+Fold 2 | Top 622 features | Class-wise F1s:
+  ascent: 0.9752
+  away: 0.6783
+  descent: 0.8955
+  hover: 0.9216
+  towards: 0.6866
+  turn: 0.8671
+Fold 2: Number of components selected: 72
+Fold 2: Reduced from 3175 to 602
+Fold 2 | Top 602 features | Class-wise F1s:
+  ascent: 0.9750
+  away: 0.7039
+  descent: 0.9064
+  hover: 0.9311
+  towards: 0.7116
+  turn: 0.8732
+Fold 2: Number of components selected: 68
+Fold 2: Reduced from 3175 to 582
+Fold 2 | Top 582 features | Class-wise F1s:
+  ascent: 0.9630
+  away: 0.7013
+  descent: 0.8744
+  hover: 0.9276
+  towards: 0.7185
+  turn: 0.8671
+Fold 2: Number of components selected: 65
+Fold 2: Reduced from 3175 to 562
+Fold 2 | Top 562 features | Class-wise F1s:
+  ascent: 0.9669
+  away: 0.7130
+  descent: 0.8856
+  hover: 0.9281
+  towards: 0.7191
+  turn: 0.8611
+Fold 2: Number of components selected: 65
+Fold 2: Reduced from 3175 to 542
+Fold 2 | Top 542 features | Class-wise F1s:
+  ascent: 0.9750
+  away: 0.7043
+  descent: 0.8812
+  hover: 0.9216
+  towards: 0.7212
+  turn: 0.8671
+Fold 2: Number of components selected: 63
+Fold 2: Reduced from 3175 to 522
+Fold 2 | Top 522 features | Class-wise F1s:
+  ascent: 0.9750
+  away: 0.7155
+  descent: 0.8713
+  hover: 0.9216
+  towards: 0.7015
+  turn: 0.8592
+Fold 2: Number of components selected: 61
+Fold 2: Reduced from 3175 to 502
+Fold 2 | Top 502 features | Class-wise F1s:
+  ascent: 0.9791
+  away: 0.7034
+  descent: 0.8812
+  hover: 0.9316
+  towards: 0.7143
+  turn: 0.8714
+Fold 2: Number of components selected: 59
+Fold 2: Reduced from 3175 to 482
+Fold 2 | Top 482 features | Class-wise F1s:
+  ascent: 0.9791
+  away: 0.7143
+  descent: 0.8812
+  hover: 0.9286
+  towards: 0.7121
+  turn: 0.8777
+Fold 2: Number of components selected: 56
+Fold 2: Reduced from 3175 to 462
+Fold 2 | Top 462 features | Class-wise F1s:
+  ascent: 0.9627
+  away: 0.7059
+  descent: 0.8966
+  hover: 0.9205
+  towards: 0.6894
+  turn: 0.8592
+Fold 2: Number of components selected: 52
+Fold 2: Reduced from 3175 to 442
+Fold 2 | Top 442 features | Class-wise F1s:
+  ascent: 0.9587
+  away: 0.7203
+  descent: 0.8812
+  hover: 0.9316
+  towards: 0.7045
+  turn: 0.8777
+Fold 2: Number of components selected: 49
+Fold 2: Reduced from 3175 to 422
+Fold 2 | Top 422 features | Class-wise F1s:
+  ascent: 0.9630
+  away: 0.7179
+  descent: 0.8756
+  hover: 0.9381
+  towards: 0.6894
+  turn: 0.8794
+Fold 2: Number of components selected: 47
+Fold 2: Reduced from 3175 to 402
+Fold 2 | Top 402 features | Class-wise F1s:
+  ascent: 0.9630
+  away: 0.7018
+  descent: 0.8911
+  hover: 0.9295
+  towards: 0.6842
+  turn: 0.8633
+Fold 2: Number of components selected: 45
+Fold 2: Reduced from 3175 to 382
+Fold 2 | Top 382 features | Class-wise F1s:
+  ascent: 0.9590
+  away: 0.7162
+  descent: 0.8756
+  hover: 0.9355
+  towards: 0.6914
+  turn: 0.8467
+Fold 2: Number of components selected: 41
+Fold 2: Reduced from 3175 to 362
+Fold 2 | Top 362 features | Class-wise F1s:
+  ascent: 0.9474
+  away: 0.7265
+  descent: 0.8586
+  hover: 0.9320
+  towards: 0.6868
+  turn: 0.8613
+Fold 2: Number of components selected: 38
+Fold 2: Reduced from 3175 to 342
+Fold 2 | Top 342 features | Class-wise F1s:
+  ascent: 0.9344
+  away: 0.7137
+  descent: 0.8543
+  hover: 0.9231
+  towards: 0.6815
+  turn: 0.8406
+Fold 2: Number of components selected: 36
+Fold 2: Reduced from 3175 to 322
+Fold 2 | Top 322 features | Class-wise F1s:
+  ascent: 0.9456
+  away: 0.6987
+  descent: 0.8725
+  hover: 0.9265
+  towards: 0.6791
+  turn: 0.8467
+Fold 2: Number of components selected: 32
+Fold 2: Reduced from 3175 to 302
+Fold 2 | Top 302 features | Class-wise F1s:
+  ascent: 0.9295
+  away: 0.7124
+  descent: 0.8955
+  hover: 0.9404
+  towards: 0.6844
+  turn: 0.8421
+Fold 2: Number of components selected: 26
+Fold 2: Reduced from 3175 to 282
+Fold 2 | Top 282 features | Class-wise F1s:
+  ascent: 0.9046
+  away: 0.7203
+  descent: 0.8643
+  hover: 0.9313
+  towards: 0.6615
+  turn: 0.7910
+Fold 2: Number of components selected: 25
+Fold 2: Reduced from 3175 to 262
+Fold 2 | Top 262 features | Class-wise F1s:
+  ascent: 0.9167
+  away: 0.7173
+  descent: 0.8856
+  hover: 0.9283
+  towards: 0.6512
+  turn: 0.7970
+Fold 2: Number of components selected: 22
+Fold 2: Reduced from 3175 to 242
+Fold 2 | Top 242 features | Class-wise F1s:
+  ascent: 0.8926
+  away: 0.6835
+  descent: 0.8725
+  hover: 0.9404
+  towards: 0.6667
+  turn: 0.7519
+Fold 2: Number of components selected: 20
+Fold 2: Reduced from 3175 to 222
+Fold 2 | Top 222 features | Class-wise F1s:
+  ascent: 0.8797
+  away: 0.6723
+  descent: 0.8502
+  hover: 0.9346
+  towards: 0.6403
+  turn: 0.7368
+Fold 2: Number of components selected: 19
+Fold 2: Reduced from 3175 to 202
+Fold 2 | Top 202 features | Class-wise F1s:
+  ascent: 0.8833
+  away: 0.6864
+  descent: 0.8488
+  hover: 0.9317
+  towards: 0.6561
+  turn: 0.7463
+Best number of features for fold 2: 742
+F1-scores for class ascent: 0.9669
+F1-scores for class away: 0.7162
+F1-scores for class descent: 0.9055
+F1-scores for class hover: 0.9381
+F1-scores for class towards: 0.7481
+F1-scores for class turn: 0.8794
+Fold 3: Number of components selected: 95
+Fold 3: Reduced from 3175 to 772
+Fold 3 | Top 772 features | Class-wise F1s:
+  ascent: 0.9381
+  away: 0.7059
+  descent: 0.8923
+  hover: 0.9287
+  towards: 0.6834
+  turn: 0.8475
+Fold 3: Number of components selected: 94
+Fold 3: Reduced from 3175 to 752
+Fold 3 | Top 752 features | Class-wise F1s:
+  ascent: 0.9339
+  away: 0.6909
+  descent: 0.8866
+  hover: 0.9366
+  towards: 0.6633
+  turn: 0.8621
+Fold 3: Number of components selected: 90
+Fold 3: Reduced from 3175 to 732
+Fold 3 | Top 732 features | Class-wise F1s:
+  ascent: 0.9339
+  away: 0.7215
+  descent: 0.8788
+  hover: 0.9366
+  towards: 0.6869
+  turn: 0.8772
+Fold 3: Number of components selected: 88
+Fold 3: Reduced from 3175 to 712
+Fold 3 | Top 712 features | Class-wise F1s:
+  ascent: 0.9251
+  away: 0.7037
+  descent: 0.8756
+  hover: 0.9337
+  towards: 0.6800
+  turn: 0.8696
+Fold 3: Number of components selected: 84
+Fold 3: Reduced from 3175 to 692
+Fold 3 | Top 692 features | Class-wise F1s:
+  ascent: 0.9292
+  away: 0.7130
+  descent: 0.8700
+  hover: 0.9314
+  towards: 0.6832
+  turn: 0.8772
+Fold 3: Number of components selected: 81
+Fold 3: Reduced from 3175 to 672
+Fold 3 | Top 672 features | Class-wise F1s:
+  ascent: 0.9130
+  away: 0.7248
+  descent: 0.8744
+  hover: 0.9366
+  towards: 0.6837
+  turn: 0.8850
+Fold 3: Number of components selected: 77
+Fold 3: Reduced from 3175 to 652
+Fold 3 | Top 652 features | Class-wise F1s:
+  ascent: 0.9211
+  away: 0.7290
+  descent: 0.8657
+  hover: 0.9417
+  towards: 0.6900
+  turn: 0.9009
+Fold 3: Number of components selected: 75
+Fold 3: Reduced from 3175 to 632
+Fold 3 | Top 632 features | Class-wise F1s:
+  ascent: 0.9298
+  away: 0.7222
+  descent: 0.8744
+  hover: 0.9440
+  towards: 0.6900
+  turn: 0.8929
+Fold 3: Number of components selected: 73
+Fold 3: Reduced from 3175 to 612
+Fold 3 | Top 612 features | Class-wise F1s:
+  ascent: 0.9217
+  away: 0.7230
+  descent: 0.8600
+  hover: 0.9466
+  towards: 0.6869
+  turn: 0.8850
+Fold 3: Number of components selected: 70
+Fold 3: Reduced from 3175 to 592
+Fold 3 | Top 592 features | Class-wise F1s:
+  ascent: 0.9292
+  away: 0.7189
+  descent: 0.8713
+  hover: 0.9417
+  towards: 0.6834
+  turn: 0.8909
+Fold 3: Number of components selected: 70
+Fold 3: Reduced from 3175 to 572
+Fold 3 | Top 572 features | Class-wise F1s:
+  ascent: 0.9292
+  away: 0.7215
+  descent: 0.8713
+  hover: 0.9417
+  towards: 0.6804
+  turn: 0.8673
+Fold 3: Number of components selected: 68
+Fold 3: Reduced from 3175 to 552
+Fold 3 | Top 552 features | Class-wise F1s:
+  ascent: 0.9204
+  away: 0.7349
+  descent: 0.8683
+  hover: 0.9389
+  towards: 0.6935
+  turn: 0.8750
+Fold 3: Number of components selected: 67
+Fold 3: Reduced from 3175 to 532
+Fold 3 | Top 532 features | Class-wise F1s:
+  ascent: 0.9156
+  away: 0.7418
+  descent: 0.8657
+  hover: 0.9346
+  towards: 0.7100
+  turn: 0.8596
+Fold 3: Number of components selected: 63
+Fold 3: Reduced from 3175 to 512
+Fold 3 | Top 512 features | Class-wise F1s:
+  ascent: 0.9292
+  away: 0.7149
+  descent: 0.8756
+  hover: 0.9314
+  towards: 0.6869
+  turn: 0.8750
+Fold 3: Number of components selected: 60
+Fold 3: Reduced from 3175 to 492
+Fold 3 | Top 492 features | Class-wise F1s:
+  ascent: 0.9339
+  away: 0.7085
+  descent: 0.8700
+  hover: 0.9310
+  towards: 0.6633
+  turn: 0.8829
+Fold 3: Number of components selected: 55
+Fold 3: Reduced from 3175 to 472
+Fold 3 | Top 472 features | Class-wise F1s:
+  ascent: 0.9298
+  away: 0.7137
+  descent: 0.8643
+  hover: 0.9440
+  towards: 0.6771
+  turn: 0.8991
+Fold 3: Number of components selected: 52
+Fold 3: Reduced from 3175 to 452
+Fold 3 | Top 452 features | Class-wise F1s:
+  ascent: 0.9298
+  away: 0.7168
+  descent: 0.8744
+  hover: 0.9392
+  towards: 0.6492
+  turn: 0.8829
+Fold 3: Number of components selected: 49
+Fold 3: Reduced from 3175 to 432
+Fold 3 | Top 432 features | Class-wise F1s:
+  ascent: 0.9292
+  away: 0.6968
+  descent: 0.8629
+  hover: 0.9446
+  towards: 0.6364
+  turn: 0.8991
+Fold 3: Number of components selected: 46
+Fold 3: Reduced from 3175 to 412
+Fold 3 | Top 412 features | Class-wise F1s:
+  ascent: 0.9204
+  away: 0.6968
+  descent: 0.8731
+  hover: 0.9261
+  towards: 0.6049
+  turn: 0.8649
+Fold 3: Number of components selected: 42
+Fold 3: Reduced from 3175 to 392
+Fold 3 | Top 392 features | Class-wise F1s:
+  ascent: 0.9107
+  away: 0.7225
+  descent: 0.8687
+  hover: 0.9284
+  towards: 0.6535
+  turn: 0.8545
+Fold 3: Number of components selected: 38
+Fold 3: Reduced from 3175 to 372
+Fold 3 | Top 372 features | Class-wise F1s:
+  ascent: 0.9148
+  away: 0.7137
+  descent: 0.8643
+  hover: 0.9415
+  towards: 0.6154
+  turn: 0.8571
+Fold 3: Number of components selected: 32
+Fold 3: Reduced from 3175 to 352
+Fold 3 | Top 352 features | Class-wise F1s:
+  ascent: 0.8519
+  away: 0.7289
+  descent: 0.8431
+  hover: 0.9238
+  towards: 0.6667
+  turn: 0.7965
+Fold 3: Number of components selected: 32
+Fold 3: Reduced from 3175 to 332
+Fold 3 | Top 332 features | Class-wise F1s:
+  ascent: 0.8636
+  away: 0.7193
+  descent: 0.8431
+  hover: 0.9235
+  towards: 0.6497
+  turn: 0.8036
+Fold 3: Number of components selected: 27
+Fold 3: Reduced from 3175 to 312
+Fold 3 | Top 312 features | Class-wise F1s:
+  ascent: 0.8571
+  away: 0.7193
+  descent: 0.8500
+  hover: 0.9265
+  towards: 0.6432
+  turn: 0.8070
+Fold 3: Number of components selected: 24
+Fold 3: Reduced from 3175 to 292
+Fold 3 | Top 292 features | Class-wise F1s:
+  ascent: 0.8505
+  away: 0.6964
+  descent: 0.8358
+  hover: 0.9242
+  towards: 0.6207
+  turn: 0.7826
+Fold 3: Number of components selected: 21
+Fold 3: Reduced from 3175 to 272
+Fold 3 | Top 272 features | Class-wise F1s:
+  ascent: 0.8286
+  away: 0.6781
+  descent: 0.8485
+  hover: 0.9398
+  towards: 0.6289
+  turn: 0.7414
+Fold 3: Number of components selected: 19
+Fold 3: Reduced from 3175 to 252
+Fold 3 | Top 252 features | Class-wise F1s:
+  ascent: 0.8000
+  away: 0.7059
+  descent: 0.8384
+  hover: 0.9324
+  towards: 0.6631
+  turn: 0.7227
+Fold 3: Number of components selected: 16
+Fold 3: Reduced from 3175 to 232
+Fold 3 | Top 232 features | Class-wise F1s:
+  ascent: 0.8020
+  away: 0.6584
+  descent: 0.8358
+  hover: 0.9242
+  towards: 0.6421
+  turn: 0.7273
+Fold 3: Number of components selected: 15
+Fold 3: Reduced from 3175 to 212
+Fold 3 | Top 212 features | Class-wise F1s:
+  ascent: 0.8000
+  away: 0.6724
+  descent: 0.8358
+  hover: 0.9144
+  towards: 0.6359
+  turn: 0.7395
+Best number of features for fold 3: 632
+F1-scores for class ascent: 0.9298
+F1-scores for class away: 0.7222
+F1-scores for class descent: 0.8744
+F1-scores for class hover: 0.9440
+F1-scores for class towards: 0.6900
+F1-scores for class turn: 0.8929
+Fold 4: Number of components selected: 99
+Fold 4: Reduced from 3175 to 800
+Fold 4 | Top 800 features | Class-wise F1s:
+  ascent: 0.9597
+  away: 0.7897
+  descent: 0.8692
+  hover: 0.9518
+  towards: 0.7446
+  turn: 0.8444
+Fold 4: Number of components selected: 98
+Fold 4: Reduced from 3175 to 780
+Fold 4 | Top 780 features | Class-wise F1s:
+  ascent: 0.9636
+  away: 0.7915
+  descent: 0.8732
+  hover: 0.9518
+  towards: 0.7391
+  turn: 0.8529
+Fold 4: Number of components selected: 97
+Fold 4: Reduced from 3175 to 760
+Fold 4 | Top 760 features | Class-wise F1s:
+  ascent: 0.9551
+  away: 0.7745
+  descent: 0.8756
+  hover: 0.9518
+  towards: 0.7456
+  turn: 0.8529
+Fold 4: Number of components selected: 93
+Fold 4: Reduced from 3175 to 740
+Fold 4 | Top 740 features | Class-wise F1s:
+  ascent: 0.9675
+  away: 0.7848
+  descent: 0.8889
+  hover: 0.9516
+  towards: 0.7598
+  turn: 0.8444
+Fold 4: Number of components selected: 90
+Fold 4: Reduced from 3175 to 720
+Fold 4 | Top 720 features | Class-wise F1s:
+  ascent: 0.9590
+  away: 0.8120
+  descent: 0.8889
+  hover: 0.9518
+  towards: 0.7778
+  turn: 0.8571
+Fold 4: Number of components selected: 87
+Fold 4: Reduced from 3175 to 700
+Fold 4 | Top 700 features | Class-wise F1s:
+  ascent: 0.9593
+  away: 0.7931
+  descent: 0.8807
+  hover: 0.9489
+  towards: 0.7811
+  turn: 0.8722
+Fold 4: Number of components selected: 84
+Fold 4: Reduced from 3175 to 680
+Fold 4 | Top 680 features | Class-wise F1s:
+  ascent: 0.9633
+  away: 0.8034
+  descent: 0.8785
+  hover: 0.9459
+  towards: 0.7764
+  turn: 0.8722
+Fold 4: Number of components selected: 83
+Fold 4: Reduced from 3175 to 660
+Fold 4 | Top 660 features | Class-wise F1s:
+  ascent: 0.9675
+  away: 0.7949
+  descent: 0.8879
+  hover: 0.9489
+  towards: 0.7627
+  turn: 0.8636
+Fold 4: Number of components selected: 80
+Fold 4: Reduced from 3175 to 640
+Fold 4 | Top 640 features | Class-wise F1s:
+  ascent: 0.9675
+  away: 0.8051
+  descent: 0.8889
+  hover: 0.9486
+  towards: 0.7983
+  turn: 0.8722
+Fold 4: Number of components selected: 77
+Fold 4: Reduced from 3175 to 620
+Fold 4 | Top 620 features | Class-wise F1s:
+  ascent: 0.9558
+  away: 0.7966
+  descent: 0.9023
+  hover: 0.9429
+  towards: 0.7706
+  turn: 0.8722
+Fold 4: Number of components selected: 74
+Fold 4: Reduced from 3175 to 600
+Fold 4 | Top 600 features | Class-wise F1s:
+  ascent: 0.9633
+  away: 0.7881
+  descent: 0.8858
+  hover: 0.9425
+  towards: 0.7692
+  turn: 0.8636
+Fold 4: Number of components selected: 70
+Fold 4: Reduced from 3175 to 580
+Fold 4 | Top 580 features | Class-wise F1s:
+  ascent: 0.9593
+  away: 0.8017
+  descent: 0.8716
+  hover: 0.9459
+  towards: 0.7660
+  turn: 0.8636
+Fold 4: Number of components selected: 67
+Fold 4: Reduced from 3175 to 560
+Fold 4 | Top 560 features | Class-wise F1s:
+  ascent: 0.9630
+  away: 0.8120
+  descent: 0.8636
+  hover: 0.9405
+  towards: 0.7725
+  turn: 0.8702
+Fold 4: Number of components selected: 66
+Fold 4: Reduced from 3175 to 540
+Fold 4 | Top 540 features | Class-wise F1s:
+  ascent: 0.9555
+  away: 0.8051
+  descent: 0.8664
+  hover: 0.9402
+  towards: 0.7725
+  turn: 0.8923
+Fold 4: Number of components selected: 64
+Fold 4: Reduced from 3175 to 520
+Fold 4 | Top 520 features | Class-wise F1s:
+  ascent: 0.9551
+  away: 0.8070
+  descent: 0.8704
+  hover: 0.9465
+  towards: 0.7667
+  turn: 0.8923
+Fold 4: Number of components selected: 64
+Fold 4: Reduced from 3175 to 500
+Fold 4 | Top 500 features | Class-wise F1s:
+  ascent: 0.9512
+  away: 0.8174
+  descent: 0.8651
+  hover: 0.9435
+  towards: 0.7699
+  turn: 0.8923
+Fold 4: Number of components selected: 63
+Fold 4: Reduced from 3175 to 480
+Fold 4 | Top 480 features | Class-wise F1s:
+  ascent: 0.9398
+  away: 0.8070
+  descent: 0.8692
+  hover: 0.9371
+  towards: 0.7572
+  turn: 0.8923
+Fold 4: Number of components selected: 59
+Fold 4: Reduced from 3175 to 460
+Fold 4 | Top 460 features | Class-wise F1s:
+  ascent: 0.9516
+  away: 0.8035
+  descent: 0.8664
+  hover: 0.9405
+  towards: 0.7595
+  turn: 0.8923
+Fold 4: Number of components selected: 57
+Fold 4: Reduced from 3175 to 440
+Fold 4 | Top 440 features | Class-wise F1s:
+  ascent: 0.9478
+  away: 0.7706
+  descent: 0.8532
+  hover: 0.9429
+  towards: 0.7595
+  turn: 0.8837
+Fold 4: Number of components selected: 54
+Fold 4: Reduced from 3175 to 420
+Fold 4 | Top 420 features | Class-wise F1s:
+  ascent: 0.9516
+  away: 0.7811
+  descent: 0.8571
+  hover: 0.9429
+  towards: 0.7660
+  turn: 0.9008
+Fold 4: Number of components selected: 51
+Fold 4: Reduced from 3175 to 400
+Fold 4 | Top 400 features | Class-wise F1s:
+  ascent: 0.9590
+  away: 0.7915
+  descent: 0.8571
+  hover: 0.9548
+  towards: 0.7863
+  turn: 0.8923
+Fold 4: Number of components selected: 47
+Fold 4: Reduced from 3175 to 380
+Fold 4 | Top 380 features | Class-wise F1s:
+  ascent: 0.9388
+  away: 0.7881
+  descent: 0.8519
+  hover: 0.9577
+  towards: 0.7725
+  turn: 0.8992
+Fold 4: Number of components selected: 45
+Fold 4: Reduced from 3175 to 360
+Fold 4 | Top 360 features | Class-wise F1s:
+  ascent: 0.9339
+  away: 0.7782
+  descent: 0.8732
+  hover: 0.9548
+  towards: 0.7373
+  turn: 0.8923
+Fold 4: Number of components selected: 41
+Fold 4: Reduced from 3175 to 340
+Fold 4 | Top 340 features | Class-wise F1s:
+  ascent: 0.9496
+  away: 0.7833
+  descent: 0.8651
+  hover: 0.9521
+  towards: 0.7342
+  turn: 0.8992
+Fold 4: Number of components selected: 39
+Fold 4: Reduced from 3175 to 320
+Fold 4 | Top 320 features | Class-wise F1s:
+  ascent: 0.9339
+  away: 0.7764
+  descent: 0.8502
+  hover: 0.9497
+  towards: 0.7190
+  turn: 0.8906
+Fold 4: Number of components selected: 36
+Fold 4: Reduced from 3175 to 300
+Fold 4 | Top 300 features | Class-wise F1s:
+  ascent: 0.9417
+  away: 0.7750
+  descent: 0.8325
+  hover: 0.9526
+  towards: 0.6975
+  turn: 0.8438
+Fold 4: Number of components selected: 33
+Fold 4: Reduced from 3175 to 280
+Fold 4 | Top 280 features | Class-wise F1s:
+  ascent: 0.9456
+  away: 0.7935
+  descent: 0.8269
+  hover: 0.9503
+  towards: 0.7130
+  turn: 0.8750
+Fold 4: Number of components selected: 31
+Fold 4: Reduced from 3175 to 260
+Fold 4 | Top 260 features | Class-wise F1s:
+  ascent: 0.9038
+  away: 0.7837
+  descent: 0.8095
+  hover: 0.9584
+  towards: 0.7124
+  turn: 0.8095
+Fold 4: Number of components selected: 28
+Fold 4: Reduced from 3175 to 240
+Fold 4 | Top 240 features | Class-wise F1s:
+  ascent: 0.9250
+  away: 0.7984
+  descent: 0.8381
+  hover: 0.9508
+  towards: 0.7054
+  turn: 0.8095
+Fold 4: Number of components selected: 24
+Fold 4: Reduced from 3175 to 220
+Fold 4 | Top 220 features | Class-wise F1s:
+  ascent: 0.9030
+  away: 0.7823
+  descent: 0.8302
+  hover: 0.9511
+  towards: 0.7085
+  turn: 0.8095
+Best number of features for fold 4: 640
+F1-scores for class ascent: 0.9675
+F1-scores for class away: 0.8051
+F1-scores for class descent: 0.8889
+F1-scores for class hover: 0.9486
+F1-scores for class towards: 0.7983
+F1-scores for class turn: 0.8722
+Fold 5: Number of components selected: 85
+Fold 5: Reduced from 3175 to 792
+Fold 5 | Top 792 features | Class-wise F1s:
+  ascent: 0.9264
+  away: 0.7081
+  descent: 0.8317
+  hover: 0.9613
+  towards: 0.7064
+  turn: 0.8871
+Fold 5: Number of components selected: 83
+Fold 5: Reduced from 3175 to 772
+Fold 5 | Top 772 features | Class-wise F1s:
+  ascent: 0.9231
+  away: 0.6990
+  descent: 0.8259
+  hover: 0.9611
+  towards: 0.7273
+  turn: 0.8800
+Fold 5: Number of components selected: 80
+Fold 5: Reduced from 3175 to 752
+Fold 5 | Top 752 features | Class-wise F1s:
+  ascent: 0.9270
+  away: 0.7065
+  descent: 0.8177
+  hover: 0.9613
+  towards: 0.7207
+  turn: 0.8800
+Fold 5: Number of components selected: 77
+Fold 5: Reduced from 3175 to 732
+Fold 5 | Top 732 features | Class-wise F1s:
+  ascent: 0.9224
+  away: 0.6794
+  descent: 0.8358
+  hover: 0.9556
+  towards: 0.7091
+  turn: 0.8871
+Fold 5: Number of components selected: 75
+Fold 5: Reduced from 3175 to 712
+Fold 5 | Top 712 features | Class-wise F1s:
+  ascent: 0.9185
+  away: 0.6927
+  descent: 0.8218
+  hover: 0.9582
+  towards: 0.7143
+  turn: 0.8943
+Fold 5: Number of components selected: 73
+Fold 5: Reduced from 3175 to 692
+Fold 5 | Top 692 features | Class-wise F1s:
+  ascent: 0.9310
+  away: 0.6794
+  descent: 0.8276
+  hover: 0.9669
+  towards: 0.6941
+  turn: 0.8926
+Fold 5: Number of components selected: 71
+Fold 5: Reduced from 3175 to 672
+Fold 5 | Top 672 features | Class-wise F1s:
+  ascent: 0.9270
+  away: 0.6731
+  descent: 0.8416
+  hover: 0.9611
+  towards: 0.6818
+  turn: 0.8943
+Fold 5: Number of components selected: 70
+Fold 5: Reduced from 3175 to 652
+Fold 5 | Top 652 features | Class-wise F1s:
+  ascent: 0.9270
+  away: 0.6699
+  descent: 0.8458
+  hover: 0.9556
+  towards: 0.6816
+  turn: 0.8943
+Fold 5: Number of components selected: 68
+Fold 5: Reduced from 3175 to 632
+Fold 5 | Top 632 features | Class-wise F1s:
+  ascent: 0.9224
+  away: 0.6731
+  descent: 0.8374
+  hover: 0.9582
+  towards: 0.6606
+  turn: 0.8943
+Fold 5: Number of components selected: 66
+Fold 5: Reduced from 3175 to 612
+Fold 5 | Top 612 features | Class-wise F1s:
+  ascent: 0.9316
+  away: 0.6829
+  descent: 0.8374
+  hover: 0.9556
+  towards: 0.6787
+  turn: 0.8943
+Fold 5: Number of components selected: 65
+Fold 5: Reduced from 3175 to 592
+Fold 5 | Top 592 features | Class-wise F1s:
+  ascent: 0.9356
+  away: 0.6893
+  descent: 0.8317
+  hover: 0.9556
+  towards: 0.6816
+  turn: 0.9016
+Fold 5: Number of components selected: 61
+Fold 5: Reduced from 3175 to 572
+Fold 5 | Top 572 features | Class-wise F1s:
+  ascent: 0.9402
+  away: 0.6827
+  descent: 0.8276
+  hover: 0.9526
+  towards: 0.6667
+  turn: 0.8943
+Fold 5: Number of components selected: 60
+Fold 5: Reduced from 3175 to 552
+Fold 5 | Top 552 features | Class-wise F1s:
+  ascent: 0.9356
+  away: 0.6931
+  descent: 0.8116
+  hover: 0.9553
+  towards: 0.6786
+  turn: 0.9016
+Fold 5: Number of components selected: 58
+Fold 5: Reduced from 3175 to 532
+Fold 5 | Top 532 features | Class-wise F1s:
+  ascent: 0.9316
+  away: 0.6863
+  descent: 0.8269
+  hover: 0.9526
+  towards: 0.6818
+  turn: 0.9091
+Fold 5: Number of components selected: 55
+Fold 5: Reduced from 3175 to 512
+Fold 5 | Top 512 features | Class-wise F1s:
+  ascent: 0.9356
+  away: 0.6733
+  descent: 0.8213
+  hover: 0.9556
+  towards: 0.6667
+  turn: 0.9016
+Fold 5: Number of components selected: 52
+Fold 5: Reduced from 3175 to 492
+Fold 5 | Top 492 features | Class-wise F1s:
+  ascent: 0.9478
+  away: 0.6900
+  descent: 0.8173
+  hover: 0.9529
+  towards: 0.6814
+  turn: 0.9091
+Fold 5: Number of components selected: 49
+Fold 5: Reduced from 3175 to 472
+Fold 5 | Top 472 features | Class-wise F1s:
+  ascent: 0.9600
+  away: 0.6829
+  descent: 0.8093
+  hover: 0.9532
+  towards: 0.6330
+  turn: 0.9000
+Fold 5: Number of components selected: 48
+Fold 5: Reduced from 3175 to 452
+Fold 5 | Top 452 features | Class-wise F1s:
+  ascent: 0.9607
+  away: 0.6832
+  descent: 0.8325
+  hover: 0.9558
+  towards: 0.6547
+  turn: 0.8926
+Fold 5: Number of components selected: 45
+Fold 5: Reduced from 3175 to 432
+Fold 5 | Top 432 features | Class-wise F1s:
+  ascent: 0.9520
+  away: 0.7000
+  descent: 0.8365
+  hover: 0.9587
+  towards: 0.6726
+  turn: 0.9000
+Fold 5: Number of components selected: 43
+Fold 5: Reduced from 3175 to 412
+Fold 5 | Top 412 features | Class-wise F1s:
+  ascent: 0.9264
+  away: 0.6700
+  descent: 0.8431
+  hover: 0.9640
+  towards: 0.6696
+  turn: 0.8833
+Fold 5: Number of components selected: 41
+Fold 5: Reduced from 3175 to 392
+Fold 5 | Top 392 features | Class-wise F1s:
+  ascent: 0.9649
+  away: 0.7030
+  descent: 0.8462
+  hover: 0.9587
+  towards: 0.6816
+  turn: 0.9016
+Fold 5: Number of components selected: 38
+Fold 5: Reduced from 3175 to 372
+Fold 5 | Top 372 features | Class-wise F1s:
+  ascent: 0.9027
+  away: 0.7059
+  descent: 0.8333
+  hover: 0.9558
+  towards: 0.6991
+  turn: 0.8548
+Fold 5: Number of components selected: 34
+Fold 5: Reduced from 3175 to 352
+Fold 5 | Top 352 features | Class-wise F1s:
+  ascent: 0.9009
+  away: 0.6698
+  descent: 0.8367
+  hover: 0.9532
+  towards: 0.6842
+  turn: 0.8480
+Fold 5: Number of components selected: 31
+Fold 5: Reduced from 3175 to 332
+Fold 5 | Top 332 features | Class-wise F1s:
+  ascent: 0.8919
+  away: 0.6368
+  descent: 0.8300
+  hover: 0.9532
+  towards: 0.6638
+  turn: 0.8320
+Fold 5: Number of components selected: 31
+Fold 5: Reduced from 3175 to 312
+Fold 5 | Top 312 features | Class-wise F1s:
+  ascent: 0.8858
+  away: 0.6368
+  descent: 0.8342
+  hover: 0.9532
+  towards: 0.6525
+  turn: 0.8125
+Fold 5: Number of components selected: 28
+Fold 5: Reduced from 3175 to 292
+Fold 5 | Top 292 features | Class-wise F1s:
+  ascent: 0.8829
+  away: 0.6305
+  descent: 0.8454
+  hover: 0.9591
+  towards: 0.6496
+  turn: 0.8095
+Fold 5: Number of components selected: 24
+Fold 5: Reduced from 3175 to 272
+Fold 5 | Top 272 features | Class-wise F1s:
+  ascent: 0.8899
+  away: 0.6502
+  descent: 0.8557
+  hover: 0.9459
+  towards: 0.6638
+  turn: 0.8000
+Fold 5: Number of components selected: 22
+Fold 5: Reduced from 3175 to 252
+Fold 5 | Top 252 features | Class-wise F1s:
+  ascent: 0.8969
+  away: 0.6300
+  descent: 0.8247
+  hover: 0.9412
+  towards: 0.6667
+  turn: 0.8099
+Fold 5: Number of components selected: 20
+Fold 5: Reduced from 3175 to 232
+Fold 5 | Top 232 features | Class-wise F1s:
+  ascent: 0.8789
+  away: 0.6078
+  descent: 0.7876
+  hover: 0.9337
+  towards: 0.6344
+  turn: 0.7869
+Fold 5: Number of components selected: 17
+Fold 5: Reduced from 3175 to 212
+Fold 5 | Top 212 features | Class-wise F1s:
+  ascent: 0.8161
+  away: 0.5933
+  descent: 0.8223
+  hover: 0.9272
+  towards: 0.6250
+  turn: 0.7049
+Best number of features for fold 5: 392
+F1-scores for class ascent: 0.9649
+F1-scores for class away: 0.7030
+F1-scores for class descent: 0.8462
+F1-scores for class hover: 0.9587
+F1-scores for class towards: 0.6816
+F1-scores for class turn: 0.9016

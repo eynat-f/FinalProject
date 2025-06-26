@@ -1,0 +1,6 @@
+x_axis,z_axis,time,task_name
+0.0,0.5,4.0,ascent
+0.0,0.0,10.0,descent
+0.0,0.5,13.5,ascent
+0.0,0.5,19.5,hover
+0.0,0.0,22.5,descent

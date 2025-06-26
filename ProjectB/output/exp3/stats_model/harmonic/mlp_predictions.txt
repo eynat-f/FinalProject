@@ -1,0 +1,96 @@
+Reduced from 3336 to 1192
+Fold 1:
+
+Accuracy: 0.8963414634146342
+Classification Report:
+
+              precision    recall  f1-score   support
+
+      ascent       0.97      0.98      0.98       114
+        away       0.82      0.87      0.84       120
+     descent       0.89      0.93      0.91       107
+       hover       0.91      0.99      0.95       120
+     towards       0.85      0.76      0.80       120
+        turn       0.97      0.84      0.90        75
+
+    accuracy                           0.90       656
+   macro avg       0.90      0.89      0.90       656
+weighted avg       0.90      0.90      0.90       656
+
+Reduced from 3336 to 1183
+Fold 2:
+
+Accuracy: 0.8273381294964028
+Classification Report:
+
+              precision    recall  f1-score   support
+
+      ascent       0.98      0.98      0.98       120
+        away       0.70      0.63      0.67       120
+     descent       0.94      0.82      0.87       110
+       hover       0.90      0.97      0.93       150
+     towards       0.64      0.72      0.67       120
+        turn       0.82      0.80      0.81        75
+
+    accuracy                           0.83       695
+   macro avg       0.83      0.82      0.82       695
+weighted avg       0.83      0.83      0.83       695
+
+Reduced from 3336 to 1185
+Fold 3:
+
+Accuracy: 0.8345534407027818
+Classification Report:
+
+              precision    recall  f1-score   support
+
+      ascent       0.88      0.93      0.91       114
+        away       0.68      0.79      0.73        96
+     descent       0.83      0.86      0.84       107
+       hover       1.00      0.81      0.89       210
+     towards       0.66      0.78      0.72        96
+        turn       0.88      0.85      0.86        60
+
+    accuracy                           0.83       683
+   macro avg       0.82      0.84      0.83       683
+weighted avg       0.85      0.83      0.84       683
+
+Reduced from 3336 to 1229
+Fold 4:
+
+Accuracy: 0.8613861386138614
+Classification Report:
+
+              precision    recall  f1-score   support
+
+      ascent       0.94      0.97      0.96       120
+        away       0.70      0.79      0.74       112
+     descent       0.82      0.82      0.82       113
+       hover       0.97      0.98      0.98       180
+     towards       0.80      0.70      0.75       112
+        turn       0.86      0.80      0.83        70
+
+    accuracy                           0.86       707
+   macro avg       0.85      0.84      0.85       707
+weighted avg       0.86      0.86      0.86       707
+
+Reduced from 3336 to 1194
+Fold 5:
+
+Accuracy: 0.8276374442793462
+Classification Report:
+
+              precision    recall  f1-score   support
+
+      ascent       0.96      0.90      0.93       114
+        away       0.79      0.65      0.72       104
+     descent       0.74      0.85      0.79       106
+       hover       0.95      0.93      0.94       180
+     towards       0.65      0.69      0.67       104
+        turn       0.80      0.86      0.83        65
+
+    accuracy                           0.83       673
+   macro avg       0.81      0.82      0.81       673
+weighted avg       0.83      0.83      0.83       673
+
+Average F1-scores over folds: {'ascent': 0.9509090094311864, 'away': 0.7407261589787943, 'descent': 0.847712503903338, 'hover': 0.9377353831145963, 'towards': 0.7220308385710726, 'turn': 0.8468953699462174}
