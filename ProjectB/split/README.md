@@ -74,5 +74,5 @@ For each original full recording
     * `towards/` -
       * `<recording_name>_forward.wav` - WAV of 'forward' movement that was towards the microphone.
       * `<recording_name>_back.wav` - WAV of 'back' movement that was towards the microphone.
-      * `<recording_name>_forward_second.wav` - First part of the WAV of a 'forward' movement that was towards the microphone (microphone in the middle of the movement).
-      * `<recording_name>_back_second.wav` - First part of the WAV of a 'back' movement that was towards the microphone (microphone in the middle of the movement).
+      * `<recording_name>_forward_first.wav` - First part of the WAV of a 'forward' movement that was towards the microphone (microphone in the middle of the movement).
+      * `<recording_name>_back_first.wav` - First part of the WAV of a 'back' movement that was towards the microphone (microphone in the middle of the movement).
